@@ -1,0 +1,120 @@
+# Essential columns that must be present in facility reports
+essential_columns:
+  - facility_id
+  - period
+  - submission_date
+  - opd_visits
+  - anc1_first_visit
+  - anc4_visits
+  - facility_deliveries
+  - bcg_doses
+  - penta1_doses
+  - penta3_doses
+  - measles1_doses
+  - fully_immunized_under1
+  - vaccine_stockout_days
+  - eligible_under1_population
+
+# Thresholds for data quality checks
+thresholds:
+  completeness_min: 0.95
+  timeliness_due_days: 7
+  outliers_mad_threshold: 3.5
+  spikes_pct_change_hi: 1.5
+  spikes_pct_change_lo: -0.5
+
+# Weights for quality score components (must sum to 100)
+weights:
+  completeness: 30
+  duplicates: 10
+  timeliness: 15
+  outliers: 15
+  spikes: 15
+  consistency: 15
+
+# Indicator definitions for dashboard
+indicators:
+  - name: opd_visits
+    display_name: "OPD Visits"
+    unit: "visits"
+    description: "Total outpatient department visits"
+  - name: anc1_first_visit
+    display_name: "ANC 1st Visit"
+    unit: "visits"
+    description: "First antenatal care visit"
+  - name: anc4_visits
+    display_name: "ANC 4+ Visits"
+    unit: "visits"
+    description: "Four or more antenatal care visits"
+  - name: facility_deliveries
+    display_name: "Facility Deliveries"
+    unit: "deliveries"
+    description: "Deliveries at facility"
+  - name: bcg_doses
+    display_name: "BCG Doses"
+    unit: "doses"
+    description: "BCG vaccine doses administered"
+  - name: penta1_doses
+    display_name: "Penta 1 Doses"
+    unit: "doses"
+    description: "First pentavalent vaccine dose"
+  - name: penta3_doses
+    display_name: "Penta 3 Doses"
+    unit: "doses"
+    description: "Third pentavalent vaccine dose"
+  - name: measles1_doses
+    display_name: "Measles 1 Doses"
+    unit: "doses"
+    description: "First measles vaccine dose"
+  - name: fully_immunized_under1
+    display_name: "Fully Immunized <1"
+    unit: "children"
+    description: "Fully immunized children under 1 year"
+  - name: vaccine_stockout_days
+    display_name: "Vaccine Stockout Days"
+    unit: "days"
+    description: "Days with vaccine stockouts"
+  - name: eligible_under1_population
+    display_name: "Eligible Population <1"
+    unit: "children"
+    description: "Estimated population under 1 year"
+
+# States in Nigeria (37 total: 36 states + FCT Abuja)
+states:
+  - Abia
+  - Adamawa
+  - Akwa Ibom
+  - Anambra
+  - Bauchi
+  - Bayelsa
+  - Benue
+  - Borno
+  - Cross River
+  - Delta
+  - Ebonyi
+  - Edo
+  - Ekiti
+  - Enugu
+  - Gombe
+  - Imo
+  - Jigawa
+  - Kaduna
+  - Kano
+  - Katsina
+  - Kebbi
+  - Kogi
+  - Kwara
+  - Lagos
+  - Nasarawa
+  - Niger
+  - Ogun
+  - Ondo
+  - Osun
+  - Oyo
+  - Plateau
+  - Rivers
+  - Sokoto
+  - Taraba
+  - Yobe
+  - Zamfara
+  - FCT Abuja
