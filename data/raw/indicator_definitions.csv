@@ -1,0 +1,12 @@
+indicator,description,unit,expected_constraints
+opd_visits,Total outpatient department visits,visits,Range: 200-10000; No negative values
+anc1_first_visit,First antenatal care visit,visits,Range: 10-600; Should be >= anc4_visits
+anc4_visits,Four or more antenatal care visits,visits,Range: 5-400; Should be <= anc1_first_visit
+facility_deliveries,Deliveries at facility,deliveries,Range: 5-400; Should be <= anc4_visits
+bcg_doses,BCG vaccine doses administered,doses,Range: 10-800; No negative values
+penta1_doses,First pentavalent vaccine dose,doses,Range: 10-800; Should be >= penta3_doses
+penta3_doses,Third pentavalent vaccine dose,doses,Range: 5-700; Should be <= penta1_doses
+measles1_doses,First measles vaccine dose,doses,Range: 5-700; Should be <= penta3_doses
+fully_immunized_under1,Fully immunized children under 1 year,children,Range: 5-700; Should be <= measles1_doses
+vaccine_stockout_days,Days with vaccine stockouts,days,Range: 0-30; No negative values
+eligible_under1_population,Estimated population under 1 year,children,Range: 50-1200; Relatively stable over time
