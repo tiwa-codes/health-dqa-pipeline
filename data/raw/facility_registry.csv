@@ -1,0 +1,101 @@
+facility_id,facility_name,state,lga,facility_type,ownership,latitude,longitude
+FAC00001,Abia PHC 1,Abia,Abia East,PHC,Private,11.79691,10.162202
+FAC00002,Abia PHC 2,Abia,Abia East,PHC,Public,12.661761,10.21338
+FAC00003,Abia PHC 3,Abia,Abia South,PHC,Public,11.219988,14.262633
+FAC00004,Adamawa PHC 1,Adamawa,Adamawa North,PHC,Private,7.042422,9.297077
+FAC00005,Adamawa PHC 2,Adamawa,Adamawa East,PHC,Public,7.99861,3.559988
+FAC00006,Adamawa General Hospital 3,Adamawa,Adamawa East,General Hospital,Public,7.82462,14.798771
+FAC00007,Akwa Ibom PHC 1,Akwa Ibom,Akwa Ibom Central,PHC,Private,8.504993,3.15918
+FAC00008,Akwa Ibom General Hospital 2,Akwa Ibom,Akwa Ibom South,General Hospital,Public,7.046138,4.172065
+FAC00009,Akwa Ibom PHC 3,Akwa Ibom,Akwa Ibom West,PHC,Public,8.951769,3.412662
+FAC00010,Anambra General Hospital 1,Anambra,Anambra West,General Hospital,Public,7.117111,9.240816
+FAC00011,Anambra PHC 2,Anambra,Anambra South,PHC,Public,11.751328,14.273987
+FAC00012,Anambra General Hospital 3,Anambra,Anambra West,General Hospital,Public,4.452273,6.903964
+FAC00013,Bauchi PHC 1,Bauchi,Bauchi Central,PHC,Public,9.867512,14.583064
+FAC00014,Bauchi PHC 2,Bauchi,Bauchi Central,PHC,Public,12.02197,3.894608
+FAC00015,Bauchi General Hospital 3,Bauchi,Bauchi West,General Hospital,Public,6.934882,3.168958
+FAC00016,Bayelsa PHC 1,Bayelsa,Bayelsa East,PHC,Public,11.712703,3.888536
+FAC00017,Bayelsa PHC 2,Bayelsa,Bayelsa North,PHC,Public,10.232981,6.970776
+FAC00018,Bayelsa PHC 3,Bayelsa,Bayelsa Central,PHC,Public,11.296062,10.65069
+FAC00019,Benue General Hospital 1,Benue,Benue Central,General Hospital,Public,13.717121,13.186966
+FAC00020,Benue PHC 2,Benue,Benue East,PHC,Public,9.227328,8.130492
+FAC00021,Benue PHC 3,Benue,Benue North,PHC,Public,7.14356,9.102848
+FAC00022,Borno General Hospital 1,Borno,Borno Central,General Hospital,Public,9.398411,5.436735
+FAC00023,Borno General Hospital 2,Borno,Borno East,General Hospital,Public,5.612213,14.156372
+FAC00024,Borno General Hospital 3,Borno,Borno West,General Hospital,Public,12.036721,5.238841
+FAC00025,Cross River General Hospital 1,Cross River,Cross River South,General Hospital,Public,5.22088,7.275574
+FAC00026,Cross River General Hospital 2,Cross River,Cross River East,General Hospital,Public,8.271078,12.816177
+FAC00027,Cross River General Hospital 3,Cross River,Cross River East,General Hospital,Public,8.17411,5.665294
+FAC00028,Delta PHC 1,Delta,Delta East,PHC,Public,7.232029,9.225487
+FAC00029,Delta PHC 2,Delta,Delta North,PHC,Public,6.539154,5.962513
+FAC00030,Delta PHC 3,Delta,Delta Central,PHC,Public,6.848405,3.442643
+FAC00031,Ebonyi PHC 1,Ebonyi,Ebonyi Central,PHC,Public,7.450712,10.612216
+FAC00032,Ebonyi PHC 2,Ebonyi,Ebonyi South,PHC,Public,13.856505,5.904663
+FAC00033,Ebonyi PHC 3,Ebonyi,Ebonyi East,PHC,Public,6.421599,12.637677
+FAC00034,Edo PHC 1,Edo,Edo East,PHC,Private,12.164319,12.580141
+FAC00035,Edo PHC 2,Edo,Edo Central,PHC,Public,12.583588,6.911507
+FAC00036,Edo PHC 3,Edo,Edo East,PHC,Public,7.48666,4.154119
+FAC00037,Ekiti General Hospital 1,Ekiti,Ekiti South,General Hospital,Public,12.377101,11.108281
+FAC00038,Ekiti PHC 2,Ekiti,Ekiti South,PHC,Public,6.579416,10.919809
+FAC00039,Ekiti General Hospital 3,Ekiti,Ekiti West,General Hospital,Public,6.608292,14.955044
+FAC00040,Enugu General Hospital 1,Enugu,Enugu East,General Hospital,Public,5.887071,6.346456
+FAC00041,Enugu PHC 2,Enugu,Enugu West,PHC,Public,12.870864,12.358507
+FAC00042,Enugu PHC 3,Enugu,Enugu West,PHC,Public,12.985542,10.277149
+FAC00043,Gombe PHC 1,Gombe,Gombe East,PHC,Public,13.736638,6.407052
+FAC00044,Gombe PHC 2,Gombe,Gombe East,PHC,Public,10.519613,5.691232
+FAC00045,Gombe PHC 3,Gombe,Gombe Central,PHC,Public,5.788227,7.397625
+FAC00046,Imo PHC 1,Imo,Imo North,PHC,Public,9.425402,9.105769
+FAC00047,Imo PHC 2,Imo,Imo Central,PHC,Public,8.867422,13.873185
+FAC00048,Imo PHC 3,Imo,Imo North,PHC,Public,9.769039,8.910212
+FAC00049,Jigawa PHC 1,Jigawa,Jigawa East,PHC,Public,9.720042,12.222648
+FAC00050,Jigawa PHC 2,Jigawa,Jigawa Central,PHC,Private,6.795603,13.601928
+FAC00051,Jigawa PHC 3,Jigawa,Jigawa Central,PHC,Private,8.281841,14.599858
+FAC00052,Kaduna General Hospital 1,Kaduna,Kaduna Central,General Hospital,Private,7.850977,13.21364
+FAC00053,Kaduna PHC 2,Kaduna,Kaduna North,PHC,Public,7.946915,13.130558
+FAC00054,Kaduna General Hospital 3,Kaduna,Kaduna South,General Hospital,Public,10.150072,14.880646
+FAC00055,Kano PHC 1,Kano,Kano South,PHC,Public,7.225508,13.184038
+FAC00056,Kano PHC 2,Kano,Kano Central,PHC,Public,6.965101,8.03737
+FAC00057,Kano PHC 3,Kano,Kano West,PHC,Public,9.113424,9.018196
+FAC00058,Katsina PHC 1,Katsina,Katsina West,PHC,Public,12.866171,3.331401
+FAC00059,Katsina PHC 2,Katsina,Katsina East,PHC,Public,8.65598,9.511736
+FAC00060,Katsina PHC 3,Katsina,Katsina North,PHC,Public,4.373482,12.871207
+FAC00061,Kebbi PHC 1,Kebbi,Kebbi North,PHC,Public,12.27869,6.258515
+FAC00062,Kebbi General Hospital 2,Kebbi,Kebbi Central,General Hospital,Public,5.9438,7.936247
+FAC00063,Kebbi PHC 3,Kebbi,Kebbi Central,PHC,Public,13.695369,11.575141
+FAC00064,Kogi PHC 1,Kogi,Kogi East,PHC,Public,8.389714,3.941477
+FAC00065,Kogi PHC 2,Kogi,Kogi North,PHC,Private,10.884999,3.698323
+FAC00066,Kogi General Hospital 3,Kogi,Kogi North,General Hospital,Public,10.601974,6.359207
+FAC00067,Kwara General Hospital 1,Kwara,Kwara Central,General Hospital,Public,10.117207,8.035201
+FAC00068,Kwara PHC 2,Kwara,Kwara Central,PHC,Public,5.201646,7.102556
+FAC00069,Kwara PHC 3,Kwara,Kwara West,PHC,Public,5.753303,3.205933
+FAC00070,Lagos PHC 1,Lagos,Lagos West,PHC,Public,5.732019,8.20622
+FAC00071,Lagos PHC 2,Lagos,Lagos Central,PHC,Public,12.866804,6.130723
+FAC00072,Lagos PHC 3,Lagos,Lagos North,PHC,Private,9.393774,11.207565
+FAC00073,Nasarawa PHC 1,Nasarawa,Nasarawa South,PHC,Private,4.265113,10.029307
+FAC00074,Nasarawa General Hospital 2,Nasarawa,Nasarawa South,General Hospital,Public,9.73367,4.542004
+FAC00075,Nasarawa General Hospital 3,Nasarawa,Nasarawa West,General Hospital,Public,7.861026,14.534287
+FAC00076,Niger General Hospital 1,Niger,Niger Central,General Hospital,Public,6.145891,7.527109
+FAC00077,Niger PHC 2,Niger,Niger North,PHC,Public,10.557226,7.624759
+FAC00078,Niger PHC 3,Niger,Niger East,PHC,Public,6.818548,4.417978
+FAC00079,Ogun PHC 1,Ogun,Ogun Central,PHC,Public,4.391863,8.015352
+FAC00080,Ogun General Hospital 2,Ogun,Ogun Central,General Hospital,Public,11.506148,12.682017
+FAC00081,Ondo General Hospital 1,Ondo,Ondo South,General Hospital,Public,6.500164,9.966528
+FAC00082,Ondo General Hospital 2,Ondo,Ondo West,General Hospital,Public,8.28994,12.010453
+FAC00083,Osun PHC 1,Osun,Osun North,PHC,Public,9.343275,8.958734
+FAC00084,Osun PHC 2,Osun,Osun East,PHC,Public,7.892017,3.130052
+FAC00085,Oyo General Hospital 1,Oyo,Oyo West,General Hospital,Public,13.50062,14.407286
+FAC00086,Oyo PHC 2,Oyo,Oyo Central,PHC,Public,4.917041,10.229291
+FAC00087,Plateau PHC 1,Plateau,Plateau Central,PHC,Public,11.91579,12.475418
+FAC00088,Plateau PHC 2,Plateau,Plateau South,PHC,Public,8.415305,13.65245
+FAC00089,Rivers PHC 1,Rivers,Rivers West,PHC,Public,10.8803,13.043566
+FAC00090,Rivers General Hospital 2,Rivers,Rivers Central,General Hospital,Public,6.225764,7.759819
+FAC00091,Sokoto General Hospital 1,Sokoto,Sokoto Central,General Hospital,Public,4.848377,14.839675
+FAC00092,Sokoto PHC 2,Sokoto,Sokoto West,PHC,Public,6.366852,13.892324
+FAC00093,Taraba PHC 1,Taraba,Taraba West,PHC,Public,4.835007,12.325763
+FAC00094,Taraba PHC 2,Taraba,Taraba South,PHC,Public,7.302525,8.213422
+FAC00095,Yobe PHC 1,Yobe,Yobe South,PHC,Public,11.409739,12.206338
+FAC00096,Yobe General Hospital 2,Yobe,Yobe East,General Hospital,Public,9.833688,14.546071
+FAC00097,Zamfara PHC 1,Zamfara,Zamfara North,PHC,Public,6.235958,14.55867
+FAC00098,Zamfara PHC 2,Zamfara,Zamfara Central,PHC,Private,7.226864,3.520809
+FAC00099,FCT Abuja General Hospital 1,FCT Abuja,FCT Abuja West,General Hospital,Private,9.538543,14.63163
+FAC00100,FCT Abuja PHC 2,FCT Abuja,FCT Abuja North,PHC,Public,10.275581,10.011772
