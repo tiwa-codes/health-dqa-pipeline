@@ -1,0 +1,119 @@
+{
+  "generated_at": "2025-11-07T19:30:17.305362",
+  "total_facilities": 1200,
+  "total_records": 28262,
+  "national_scores": {
+    "completeness_score": 95.93865196441092,
+    "duplicates_score": 98.10346047696554,
+    "timeliness_score": 58.61118412406361,
+    "outliers_score": 97.98386526077418,
+    "spikes_score": 88.64376194183002,
+    "consistency_score": 99.10338971056542,
+    "overall_score": 90.24327179260482
+  },
+  "issue_counts": {
+    "incomplete": 10420,
+    "duplicate": 536,
+    "late": 20259,
+    "inconsistent": 1267
+  },
+  "top_5_facilities": [
+    {
+      "facility_id": "FAC00348",
+      "overall_score": 97.9356295878035
+    },
+    {
+      "facility_id": "FAC01079",
+      "overall_score": 97.52385657820442
+    },
+    {
+      "facility_id": "FAC00486",
+      "overall_score": 97.50225861095426
+    },
+    {
+      "facility_id": "FAC01076",
+      "overall_score": 97.20048701298701
+    },
+    {
+      "facility_id": "FAC00627",
+      "overall_score": 97.06070016939582
+    }
+  ],
+  "bottom_5_facilities": [
+    {
+      "facility_id": "FAC00829",
+      "overall_score": 80.95765104460756
+    },
+    {
+      "facility_id": "FAC00931",
+      "overall_score": 81.63000541125541
+    },
+    {
+      "facility_id": "FAC00825",
+      "overall_score": 82.18871753246754
+    },
+    {
+      "facility_id": "FAC00184",
+      "overall_score": 82.46852060982495
+    },
+    {
+      "facility_id": "FAC00603",
+      "overall_score": 83.0439787485242
+    }
+  ],
+  "top_5_states": [
+    {
+      "state": "Delta",
+      "overall_score": 94.4633652430044,
+      "num_facilities": 33
+    },
+    {
+      "state": "Ebonyi",
+      "overall_score": 94.4172015564461,
+      "num_facilities": 33
+    },
+    {
+      "state": "Edo",
+      "overall_score": 94.35061159770463,
+      "num_facilities": 33
+    },
+    {
+      "state": "Taraba",
+      "overall_score": 94.11589367097282,
+      "num_facilities": 32
+    },
+    {
+      "state": "Gombe",
+      "overall_score": 93.82205037892697,
+      "num_facilities": 33
+    }
+  ],
+  "bottom_5_states": [
+    {
+      "state": "Nasarawa",
+      "overall_score": 85.91939021243657,
+      "num_facilities": 32
+    },
+    {
+      "state": "Oyo",
+      "overall_score": 86.31364584950242,
+      "num_facilities": 32
+    },
+    {
+      "state": "Niger",
+      "overall_score": 86.35659885327439,
+      "num_facilities": 32
+    },
+    {
+      "state": "Bauchi",
+      "overall_score": 86.54057402264829,
+      "num_facilities": 33
+    },
+    {
+      "state": "Ogun",
+      "overall_score": 86.92075404541981,
+      "num_facilities": 32
+    }
+  ],
+  "data_quality_grade": "A"
+}

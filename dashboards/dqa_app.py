@@ -38,6 +38,20 @@ def load_data():
             how='left'
         )
         
+        # Ensure expected score/flag columns exist to avoid KeyErrors in plotting
+        expected_score_cols = [
+            'overall_score', 'completeness_score', 'timeliness_score'
+        ]
+        expected_flag_cols = [
+            'flag_incomplete', 'flag_outlier', 'flag_spike', 'flag_inconsistent'
+        ]
+        for col in expected_score_cols:
+            if col not in detailed_merged.columns:
+                detailed_merged[col] = 0.0
+        for col in expected_flag_cols:
+            if col not in detailed_merged.columns:
+                detailed_merged[col] = False
+        
         # Load metrics summary
         with open('reports/metrics_summary.json', 'r') as f:
             metrics_summary = json.load(f)
@@ -198,11 +212,11 @@ def plot_state_scores(state_summary, selected_states):
     )
     
     fig.update_layout(height=max(400, len(plot_data) * 25))
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 
 def plot_score_components(filtered_data):
-    """Plot quality score components."""
+    """Plot quality score components"""
     st.header("📈 Quality Score Components")
     
     score_cols = [col for col in filtered_data.columns if col.endswith('_score')]
@@ -230,12 +244,17 @@ def plot_score_components(filtered_data):
     )
     
     fig.update_layout(height=400)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 
 def plot_time_series(filtered_data):
     """Plot quality scores over time."""
     st.header("📅 Quality Trends Over Time")
+    
+    # Ensure the columns we will aggregate exist
+    for col in ['overall_score', 'completeness_score', 'timeliness_score', 'flag_outlier', 'flag_spike']:
+        if col not in filtered_data.columns:
+            filtered_data[col] = 0 if col.startswith('flag_') else 0.0
     
     # Aggregate by period
     time_series = filtered_data.groupby('period').agg({
@@ -280,8 +299,7 @@ def plot_time_series(filtered_data):
         hovermode='x unified',
         height=400
     )
-    
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 
 def plot_issue_distribution(filtered_data):
@@ -314,7 +332,7 @@ def plot_issue_distribution(filtered_data):
     )
     
     fig.update_layout(height=400)
-    st.plotly_chart(fig, use_container_width=True)
+    st.plotly_chart(fig, width='stretch')
 
 
 def display_facility_table(filtered_data, facility_summary):
@@ -373,49 +391,54 @@ def display_facility_table(filtered_data, facility_summary):
     )
 
 
-def display_detailed_analysis():
-    """Display detailed analysis section."""
+def display_detailed_analysis(data):
+    """Display detailed analysis section using the cached/loaded data."""
     st.header("🔬 Detailed Analysis")
-    
+
     tab1, tab2, tab3 = st.tabs(["Outliers", "Spikes", "Consistency Issues"])
-    
-    detailed = pd.read_csv('data/processed/dqa_results_facility_month.csv')
-    registry = pd.read_csv('data/raw/facility_registry.csv')
-    detailed = detailed.merge(registry[['facility_id', 'facility_name', 'state']], on='facility_id', how='left')
-    
+
+    detailed = data['detailed'].copy()
+    registry = data.get('registry')
+    if registry is None:
+        registry = pd.read_csv('data/raw/facility_registry.csv')
+
+    # Ensure display fields: merge if either facility_name or state missing
+    if not {'facility_name', 'state'}.issubset(set(detailed.columns)):
+        detailed = detailed.merge(registry[['facility_id', 'facility_name', 'state']], on='facility_id', how='left')
+
+    # Ensure expected flag cols exist
+    for col in ['flag_outlier', 'flag_spike', 'flag_inconsistent']:
+        if col not in detailed.columns:
+            detailed[col] = False
+
+    def safe_display(df, wanted_cols, **kwargs):
+        cols = [c for c in wanted_cols if c in df.columns]
+        st.dataframe(df[cols].head(50), **kwargs)
+
     with tab1:
         st.subheader("Records Flagged as Outliers")
-        outliers = detailed[detailed['flag_outlier'] == True]
+        outliers = detailed[detailed.get('flag_outlier', False) == True]
         if len(outliers) > 0:
             st.write(f"Found {len(outliers)} facility-months with outliers")
-            st.dataframe(
-                outliers[['facility_id', 'facility_name', 'state', 'period', 'overall_score']].head(50),
-                height=300
-            )
+            safe_display(outliers, ['facility_id', 'facility_name', 'state', 'period', 'overall_score'], height=300)
         else:
             st.info("No outliers detected")
-    
+
     with tab2:
         st.subheader("Records Flagged with Spikes")
-        spikes = detailed[detailed['flag_spike'] == True]
+        spikes = detailed[detailed.get('flag_spike', False) == True]
         if len(spikes) > 0:
             st.write(f"Found {len(spikes)} facility-months with spikes")
-            st.dataframe(
-                spikes[['facility_id', 'facility_name', 'state', 'period', 'overall_score']].head(50),
-                height=300
-            )
+            safe_display(spikes, ['facility_id', 'facility_name', 'state', 'period', 'overall_score'], height=300)
         else:
             st.info("No spikes detected")
-    
+
     with tab3:
         st.subheader("Records with Consistency Violations")
-        inconsistent = detailed[detailed['flag_inconsistent'] == True]
+        inconsistent = detailed[detailed.get('flag_inconsistent', False) == True]
         if len(inconsistent) > 0:
             st.write(f"Found {len(inconsistent)} facility-months with consistency issues")
-            st.dataframe(
-                inconsistent[['facility_id', 'facility_name', 'state', 'period', 'overall_score']].head(50),
-                height=300
-            )
+            safe_display(inconsistent, ['facility_id', 'facility_name', 'state', 'period', 'overall_score'], height=300)
         else:
             st.info("No consistency violations detected")
 
@@ -473,7 +496,7 @@ def main():
     st.markdown("---")
     
     # Detailed analysis
-    display_detailed_analysis()
+    display_detailed_analysis(data)
     
     # Footer
     st.markdown("---")

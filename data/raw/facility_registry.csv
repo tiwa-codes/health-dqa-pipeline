@@ -2,100 +2,1200 @@ facility_id,facility_name,state,lga,facility_type,ownership,latitude,longitude
 FAC00001,Abia PHC 1,Abia,Abia East,PHC,Private,11.79691,10.162202
 FAC00002,Abia PHC 2,Abia,Abia East,PHC,Public,12.661761,10.21338
 FAC00003,Abia PHC 3,Abia,Abia South,PHC,Public,11.219988,14.262633
-FAC00004,Adamawa PHC 1,Adamawa,Adamawa North,PHC,Private,7.042422,9.297077
-FAC00005,Adamawa PHC 2,Adamawa,Adamawa East,PHC,Public,7.99861,3.559988
-FAC00006,Adamawa General Hospital 3,Adamawa,Adamawa East,General Hospital,Public,7.82462,14.798771
-FAC00007,Akwa Ibom PHC 1,Akwa Ibom,Akwa Ibom Central,PHC,Private,8.504993,3.15918
-FAC00008,Akwa Ibom General Hospital 2,Akwa Ibom,Akwa Ibom South,General Hospital,Public,7.046138,4.172065
-FAC00009,Akwa Ibom PHC 3,Akwa Ibom,Akwa Ibom West,PHC,Public,8.951769,3.412662
-FAC00010,Anambra General Hospital 1,Anambra,Anambra West,General Hospital,Public,7.117111,9.240816
-FAC00011,Anambra PHC 2,Anambra,Anambra South,PHC,Public,11.751328,14.273987
-FAC00012,Anambra General Hospital 3,Anambra,Anambra West,General Hospital,Public,4.452273,6.903964
-FAC00013,Bauchi PHC 1,Bauchi,Bauchi Central,PHC,Public,9.867512,14.583064
-FAC00014,Bauchi PHC 2,Bauchi,Bauchi Central,PHC,Public,12.02197,3.894608
-FAC00015,Bauchi General Hospital 3,Bauchi,Bauchi West,General Hospital,Public,6.934882,3.168958
-FAC00016,Bayelsa PHC 1,Bayelsa,Bayelsa East,PHC,Public,11.712703,3.888536
-FAC00017,Bayelsa PHC 2,Bayelsa,Bayelsa North,PHC,Public,10.232981,6.970776
-FAC00018,Bayelsa PHC 3,Bayelsa,Bayelsa Central,PHC,Public,11.296062,10.65069
-FAC00019,Benue General Hospital 1,Benue,Benue Central,General Hospital,Public,13.717121,13.186966
-FAC00020,Benue PHC 2,Benue,Benue East,PHC,Public,9.227328,8.130492
-FAC00021,Benue PHC 3,Benue,Benue North,PHC,Public,7.14356,9.102848
-FAC00022,Borno General Hospital 1,Borno,Borno Central,General Hospital,Public,9.398411,5.436735
-FAC00023,Borno General Hospital 2,Borno,Borno East,General Hospital,Public,5.612213,14.156372
-FAC00024,Borno General Hospital 3,Borno,Borno West,General Hospital,Public,12.036721,5.238841
-FAC00025,Cross River General Hospital 1,Cross River,Cross River South,General Hospital,Public,5.22088,7.275574
-FAC00026,Cross River General Hospital 2,Cross River,Cross River East,General Hospital,Public,8.271078,12.816177
-FAC00027,Cross River General Hospital 3,Cross River,Cross River East,General Hospital,Public,8.17411,5.665294
-FAC00028,Delta PHC 1,Delta,Delta East,PHC,Public,7.232029,9.225487
-FAC00029,Delta PHC 2,Delta,Delta North,PHC,Public,6.539154,5.962513
-FAC00030,Delta PHC 3,Delta,Delta Central,PHC,Public,6.848405,3.442643
-FAC00031,Ebonyi PHC 1,Ebonyi,Ebonyi Central,PHC,Public,7.450712,10.612216
-FAC00032,Ebonyi PHC 2,Ebonyi,Ebonyi South,PHC,Public,13.856505,5.904663
-FAC00033,Ebonyi PHC 3,Ebonyi,Ebonyi East,PHC,Public,6.421599,12.637677
-FAC00034,Edo PHC 1,Edo,Edo East,PHC,Private,12.164319,12.580141
-FAC00035,Edo PHC 2,Edo,Edo Central,PHC,Public,12.583588,6.911507
-FAC00036,Edo PHC 3,Edo,Edo East,PHC,Public,7.48666,4.154119
-FAC00037,Ekiti General Hospital 1,Ekiti,Ekiti South,General Hospital,Public,12.377101,11.108281
-FAC00038,Ekiti PHC 2,Ekiti,Ekiti South,PHC,Public,6.579416,10.919809
-FAC00039,Ekiti General Hospital 3,Ekiti,Ekiti West,General Hospital,Public,6.608292,14.955044
-FAC00040,Enugu General Hospital 1,Enugu,Enugu East,General Hospital,Public,5.887071,6.346456
-FAC00041,Enugu PHC 2,Enugu,Enugu West,PHC,Public,12.870864,12.358507
-FAC00042,Enugu PHC 3,Enugu,Enugu West,PHC,Public,12.985542,10.277149
-FAC00043,Gombe PHC 1,Gombe,Gombe East,PHC,Public,13.736638,6.407052
-FAC00044,Gombe PHC 2,Gombe,Gombe East,PHC,Public,10.519613,5.691232
-FAC00045,Gombe PHC 3,Gombe,Gombe Central,PHC,Public,5.788227,7.397625
-FAC00046,Imo PHC 1,Imo,Imo North,PHC,Public,9.425402,9.105769
-FAC00047,Imo PHC 2,Imo,Imo Central,PHC,Public,8.867422,13.873185
-FAC00048,Imo PHC 3,Imo,Imo North,PHC,Public,9.769039,8.910212
-FAC00049,Jigawa PHC 1,Jigawa,Jigawa East,PHC,Public,9.720042,12.222648
-FAC00050,Jigawa PHC 2,Jigawa,Jigawa Central,PHC,Private,6.795603,13.601928
-FAC00051,Jigawa PHC 3,Jigawa,Jigawa Central,PHC,Private,8.281841,14.599858
-FAC00052,Kaduna General Hospital 1,Kaduna,Kaduna Central,General Hospital,Private,7.850977,13.21364
-FAC00053,Kaduna PHC 2,Kaduna,Kaduna North,PHC,Public,7.946915,13.130558
-FAC00054,Kaduna General Hospital 3,Kaduna,Kaduna South,General Hospital,Public,10.150072,14.880646
-FAC00055,Kano PHC 1,Kano,Kano South,PHC,Public,7.225508,13.184038
-FAC00056,Kano PHC 2,Kano,Kano Central,PHC,Public,6.965101,8.03737
-FAC00057,Kano PHC 3,Kano,Kano West,PHC,Public,9.113424,9.018196
-FAC00058,Katsina PHC 1,Katsina,Katsina West,PHC,Public,12.866171,3.331401
-FAC00059,Katsina PHC 2,Katsina,Katsina East,PHC,Public,8.65598,9.511736
-FAC00060,Katsina PHC 3,Katsina,Katsina North,PHC,Public,4.373482,12.871207
-FAC00061,Kebbi PHC 1,Kebbi,Kebbi North,PHC,Public,12.27869,6.258515
-FAC00062,Kebbi General Hospital 2,Kebbi,Kebbi Central,General Hospital,Public,5.9438,7.936247
-FAC00063,Kebbi PHC 3,Kebbi,Kebbi Central,PHC,Public,13.695369,11.575141
-FAC00064,Kogi PHC 1,Kogi,Kogi East,PHC,Public,8.389714,3.941477
-FAC00065,Kogi PHC 2,Kogi,Kogi North,PHC,Private,10.884999,3.698323
-FAC00066,Kogi General Hospital 3,Kogi,Kogi North,General Hospital,Public,10.601974,6.359207
-FAC00067,Kwara General Hospital 1,Kwara,Kwara Central,General Hospital,Public,10.117207,8.035201
-FAC00068,Kwara PHC 2,Kwara,Kwara Central,PHC,Public,5.201646,7.102556
-FAC00069,Kwara PHC 3,Kwara,Kwara West,PHC,Public,5.753303,3.205933
-FAC00070,Lagos PHC 1,Lagos,Lagos West,PHC,Public,5.732019,8.20622
-FAC00071,Lagos PHC 2,Lagos,Lagos Central,PHC,Public,12.866804,6.130723
-FAC00072,Lagos PHC 3,Lagos,Lagos North,PHC,Private,9.393774,11.207565
-FAC00073,Nasarawa PHC 1,Nasarawa,Nasarawa South,PHC,Private,4.265113,10.029307
-FAC00074,Nasarawa General Hospital 2,Nasarawa,Nasarawa South,General Hospital,Public,9.73367,4.542004
-FAC00075,Nasarawa General Hospital 3,Nasarawa,Nasarawa West,General Hospital,Public,7.861026,14.534287
-FAC00076,Niger General Hospital 1,Niger,Niger Central,General Hospital,Public,6.145891,7.527109
-FAC00077,Niger PHC 2,Niger,Niger North,PHC,Public,10.557226,7.624759
-FAC00078,Niger PHC 3,Niger,Niger East,PHC,Public,6.818548,4.417978
-FAC00079,Ogun PHC 1,Ogun,Ogun Central,PHC,Public,4.391863,8.015352
-FAC00080,Ogun General Hospital 2,Ogun,Ogun Central,General Hospital,Public,11.506148,12.682017
-FAC00081,Ondo General Hospital 1,Ondo,Ondo South,General Hospital,Public,6.500164,9.966528
-FAC00082,Ondo General Hospital 2,Ondo,Ondo West,General Hospital,Public,8.28994,12.010453
-FAC00083,Osun PHC 1,Osun,Osun North,PHC,Public,9.343275,8.958734
-FAC00084,Osun PHC 2,Osun,Osun East,PHC,Public,7.892017,3.130052
-FAC00085,Oyo General Hospital 1,Oyo,Oyo West,General Hospital,Public,13.50062,14.407286
-FAC00086,Oyo PHC 2,Oyo,Oyo Central,PHC,Public,4.917041,10.229291
-FAC00087,Plateau PHC 1,Plateau,Plateau Central,PHC,Public,11.91579,12.475418
-FAC00088,Plateau PHC 2,Plateau,Plateau South,PHC,Public,8.415305,13.65245
-FAC00089,Rivers PHC 1,Rivers,Rivers West,PHC,Public,10.8803,13.043566
-FAC00090,Rivers General Hospital 2,Rivers,Rivers Central,General Hospital,Public,6.225764,7.759819
-FAC00091,Sokoto General Hospital 1,Sokoto,Sokoto Central,General Hospital,Public,4.848377,14.839675
-FAC00092,Sokoto PHC 2,Sokoto,Sokoto West,PHC,Public,6.366852,13.892324
-FAC00093,Taraba PHC 1,Taraba,Taraba West,PHC,Public,4.835007,12.325763
-FAC00094,Taraba PHC 2,Taraba,Taraba South,PHC,Public,7.302525,8.213422
-FAC00095,Yobe PHC 1,Yobe,Yobe South,PHC,Public,11.409739,12.206338
-FAC00096,Yobe General Hospital 2,Yobe,Yobe East,General Hospital,Public,9.833688,14.546071
-FAC00097,Zamfara PHC 1,Zamfara,Zamfara North,PHC,Public,6.235958,14.55867
-FAC00098,Zamfara PHC 2,Zamfara,Zamfara Central,PHC,Private,7.226864,3.520809
-FAC00099,FCT Abuja General Hospital 1,FCT Abuja,FCT Abuja West,General Hospital,Private,9.538543,14.63163
-FAC00100,FCT Abuja PHC 2,FCT Abuja,FCT Abuja North,PHC,Public,10.275581,10.011772
+FAC00004,Abia PHC 4,Abia,Abia North,PHC,Private,7.042422,9.297077
+FAC00005,Abia PHC 5,Abia,Abia East,PHC,Public,7.99861,3.559988
+FAC00006,Abia General Hospital 6,Abia,Abia East,General Hospital,Public,7.82462,14.798771
+FAC00007,Abia PHC 7,Abia,Abia Central,PHC,Private,8.504993,3.15918
+FAC00008,Abia General Hospital 8,Abia,Abia South,General Hospital,Public,7.046138,4.172065
+FAC00009,Abia PHC 9,Abia,Abia West,PHC,Public,8.951769,3.412662
+FAC00010,Abia General Hospital 10,Abia,Abia West,General Hospital,Public,7.117111,9.240816
+FAC00011,Abia PHC 11,Abia,Abia South,PHC,Public,11.751328,14.273987
+FAC00012,Abia General Hospital 12,Abia,Abia West,General Hospital,Public,4.452273,6.903964
+FAC00013,Abia PHC 13,Abia,Abia Central,PHC,Public,9.867512,14.583064
+FAC00014,Abia PHC 14,Abia,Abia Central,PHC,Public,12.02197,3.894608
+FAC00015,Abia General Hospital 15,Abia,Abia West,General Hospital,Public,6.934882,3.168958
+FAC00016,Abia PHC 16,Abia,Abia East,PHC,Public,11.712703,3.888536
+FAC00017,Abia PHC 17,Abia,Abia North,PHC,Public,10.232981,6.970776
+FAC00018,Abia PHC 18,Abia,Abia Central,PHC,Public,11.296062,10.65069
+FAC00019,Abia General Hospital 19,Abia,Abia Central,General Hospital,Public,13.717121,13.186966
+FAC00020,Abia PHC 20,Abia,Abia East,PHC,Public,9.227328,8.130492
+FAC00021,Abia PHC 21,Abia,Abia North,PHC,Public,7.14356,9.102848
+FAC00022,Abia General Hospital 22,Abia,Abia Central,General Hospital,Public,9.398411,5.436735
+FAC00023,Abia General Hospital 23,Abia,Abia East,General Hospital,Public,5.612213,14.156372
+FAC00024,Abia General Hospital 24,Abia,Abia West,General Hospital,Public,12.036721,5.238841
+FAC00025,Abia General Hospital 25,Abia,Abia South,General Hospital,Public,5.22088,7.275574
+FAC00026,Abia General Hospital 26,Abia,Abia East,General Hospital,Public,8.271078,12.816177
+FAC00027,Abia General Hospital 27,Abia,Abia East,General Hospital,Public,8.17411,5.665294
+FAC00028,Abia PHC 28,Abia,Abia East,PHC,Public,7.232029,9.225487
+FAC00029,Abia PHC 29,Abia,Abia North,PHC,Public,6.539154,5.962513
+FAC00030,Abia PHC 30,Abia,Abia Central,PHC,Public,6.848405,3.442643
+FAC00031,Abia PHC 31,Abia,Abia Central,PHC,Public,7.450712,10.612216
+FAC00032,Abia PHC 32,Abia,Abia South,PHC,Public,13.856505,5.904663
+FAC00033,Abia PHC 33,Abia,Abia East,PHC,Public,6.421599,12.637677
+FAC00034,Adamawa PHC 1,Adamawa,Adamawa East,PHC,Private,12.164319,12.580141
+FAC00035,Adamawa PHC 2,Adamawa,Adamawa Central,PHC,Public,12.583588,6.911507
+FAC00036,Adamawa PHC 3,Adamawa,Adamawa East,PHC,Public,7.48666,4.154119
+FAC00037,Adamawa General Hospital 4,Adamawa,Adamawa South,General Hospital,Public,12.377101,11.108281
+FAC00038,Adamawa PHC 5,Adamawa,Adamawa South,PHC,Public,6.579416,10.919809
+FAC00039,Adamawa General Hospital 6,Adamawa,Adamawa West,General Hospital,Public,6.608292,14.955044
+FAC00040,Adamawa General Hospital 7,Adamawa,Adamawa East,General Hospital,Public,5.887071,6.346456
+FAC00041,Adamawa PHC 8,Adamawa,Adamawa West,PHC,Public,12.870864,12.358507
+FAC00042,Adamawa PHC 9,Adamawa,Adamawa West,PHC,Public,12.985542,10.277149
+FAC00043,Adamawa PHC 10,Adamawa,Adamawa East,PHC,Public,13.736638,6.407052
+FAC00044,Adamawa PHC 11,Adamawa,Adamawa East,PHC,Public,10.519613,5.691232
+FAC00045,Adamawa PHC 12,Adamawa,Adamawa Central,PHC,Public,5.788227,7.397625
+FAC00046,Adamawa PHC 13,Adamawa,Adamawa North,PHC,Public,9.425402,9.105769
+FAC00047,Adamawa PHC 14,Adamawa,Adamawa Central,PHC,Public,8.867422,13.873185
+FAC00048,Adamawa PHC 15,Adamawa,Adamawa North,PHC,Public,9.769039,8.910212
+FAC00049,Adamawa PHC 16,Adamawa,Adamawa East,PHC,Public,9.720042,12.222648
+FAC00050,Adamawa PHC 17,Adamawa,Adamawa Central,PHC,Private,6.795603,13.601928
+FAC00051,Adamawa PHC 18,Adamawa,Adamawa Central,PHC,Private,8.281841,14.599858
+FAC00052,Adamawa General Hospital 19,Adamawa,Adamawa Central,General Hospital,Private,7.850977,13.21364
+FAC00053,Adamawa PHC 20,Adamawa,Adamawa North,PHC,Public,7.946915,13.130558
+FAC00054,Adamawa General Hospital 21,Adamawa,Adamawa South,General Hospital,Public,10.150072,14.880646
+FAC00055,Adamawa PHC 22,Adamawa,Adamawa South,PHC,Public,7.225508,13.184038
+FAC00056,Adamawa PHC 23,Adamawa,Adamawa Central,PHC,Public,6.965101,8.03737
+FAC00057,Adamawa PHC 24,Adamawa,Adamawa West,PHC,Public,9.113424,9.018196
+FAC00058,Adamawa PHC 25,Adamawa,Adamawa West,PHC,Public,12.866171,3.331401
+FAC00059,Adamawa PHC 26,Adamawa,Adamawa East,PHC,Public,8.65598,9.511736
+FAC00060,Adamawa PHC 27,Adamawa,Adamawa North,PHC,Public,4.373482,12.871207
+FAC00061,Adamawa PHC 28,Adamawa,Adamawa North,PHC,Public,12.27869,6.258515
+FAC00062,Adamawa General Hospital 29,Adamawa,Adamawa Central,General Hospital,Public,5.9438,7.936247
+FAC00063,Adamawa PHC 30,Adamawa,Adamawa Central,PHC,Public,13.695369,11.575141
+FAC00064,Adamawa PHC 31,Adamawa,Adamawa East,PHC,Public,8.389714,3.941477
+FAC00065,Adamawa PHC 32,Adamawa,Adamawa North,PHC,Private,10.884999,3.698323
+FAC00066,Adamawa General Hospital 33,Adamawa,Adamawa North,General Hospital,Public,10.601974,6.359207
+FAC00067,Akwa Ibom General Hospital 1,Akwa Ibom,Akwa Ibom Central,General Hospital,Public,10.117207,8.035201
+FAC00068,Akwa Ibom PHC 2,Akwa Ibom,Akwa Ibom Central,PHC,Public,5.201646,7.102556
+FAC00069,Akwa Ibom PHC 3,Akwa Ibom,Akwa Ibom West,PHC,Public,5.753303,3.205933
+FAC00070,Akwa Ibom PHC 4,Akwa Ibom,Akwa Ibom West,PHC,Public,5.732019,8.20622
+FAC00071,Akwa Ibom PHC 5,Akwa Ibom,Akwa Ibom Central,PHC,Public,12.866804,6.130723
+FAC00072,Akwa Ibom PHC 6,Akwa Ibom,Akwa Ibom North,PHC,Private,9.393774,11.207565
+FAC00073,Akwa Ibom PHC 7,Akwa Ibom,Akwa Ibom South,PHC,Private,4.265113,10.029307
+FAC00074,Akwa Ibom General Hospital 8,Akwa Ibom,Akwa Ibom South,General Hospital,Public,9.73367,4.542004
+FAC00075,Akwa Ibom General Hospital 9,Akwa Ibom,Akwa Ibom West,General Hospital,Public,7.861026,14.534287
+FAC00076,Akwa Ibom General Hospital 10,Akwa Ibom,Akwa Ibom Central,General Hospital,Public,6.145891,7.527109
+FAC00077,Akwa Ibom PHC 11,Akwa Ibom,Akwa Ibom North,PHC,Public,10.557226,7.624759
+FAC00078,Akwa Ibom PHC 12,Akwa Ibom,Akwa Ibom East,PHC,Public,6.818548,4.417978
+FAC00079,Akwa Ibom PHC 13,Akwa Ibom,Akwa Ibom Central,PHC,Public,4.391863,8.015352
+FAC00080,Akwa Ibom General Hospital 14,Akwa Ibom,Akwa Ibom Central,General Hospital,Public,11.506148,12.682017
+FAC00081,Akwa Ibom General Hospital 15,Akwa Ibom,Akwa Ibom South,General Hospital,Public,6.500164,9.966528
+FAC00082,Akwa Ibom General Hospital 16,Akwa Ibom,Akwa Ibom West,General Hospital,Public,8.28994,12.010453
+FAC00083,Akwa Ibom PHC 17,Akwa Ibom,Akwa Ibom North,PHC,Public,9.343275,8.958734
+FAC00084,Akwa Ibom PHC 18,Akwa Ibom,Akwa Ibom East,PHC,Public,7.892017,3.130052
+FAC00085,Akwa Ibom General Hospital 19,Akwa Ibom,Akwa Ibom West,General Hospital,Public,13.50062,14.407286
+FAC00086,Akwa Ibom PHC 20,Akwa Ibom,Akwa Ibom Central,PHC,Public,4.917041,10.229291
+FAC00087,Akwa Ibom PHC 21,Akwa Ibom,Akwa Ibom Central,PHC,Public,11.91579,12.475418
+FAC00088,Akwa Ibom PHC 22,Akwa Ibom,Akwa Ibom South,PHC,Public,8.415305,13.65245
+FAC00089,Akwa Ibom PHC 23,Akwa Ibom,Akwa Ibom West,PHC,Public,10.8803,13.043566
+FAC00090,Akwa Ibom General Hospital 24,Akwa Ibom,Akwa Ibom Central,General Hospital,Public,6.225764,7.759819
+FAC00091,Akwa Ibom General Hospital 25,Akwa Ibom,Akwa Ibom Central,General Hospital,Public,4.848377,14.839675
+FAC00092,Akwa Ibom PHC 26,Akwa Ibom,Akwa Ibom West,PHC,Public,6.366852,13.892324
+FAC00093,Akwa Ibom PHC 27,Akwa Ibom,Akwa Ibom West,PHC,Public,4.835007,12.325763
+FAC00094,Akwa Ibom PHC 28,Akwa Ibom,Akwa Ibom South,PHC,Public,7.302525,8.213422
+FAC00095,Akwa Ibom PHC 29,Akwa Ibom,Akwa Ibom South,PHC,Public,11.409739,12.206338
+FAC00096,Akwa Ibom General Hospital 30,Akwa Ibom,Akwa Ibom East,General Hospital,Public,9.833688,14.546071
+FAC00097,Akwa Ibom PHC 31,Akwa Ibom,Akwa Ibom North,PHC,Public,6.235958,14.55867
+FAC00098,Akwa Ibom PHC 32,Akwa Ibom,Akwa Ibom Central,PHC,Private,7.226864,3.520809
+FAC00099,Akwa Ibom General Hospital 33,Akwa Ibom,Akwa Ibom West,General Hospital,Private,9.538543,14.63163
+FAC00100,Anambra PHC 1,Anambra,Anambra North,PHC,Public,10.275581,10.011772
+FAC00101,Anambra General Hospital 2,Anambra,Anambra West,General Hospital,Public,13.587024,3.694367
+FAC00102,Anambra PHC 3,Anambra,Anambra Central,PHC,Public,6.773812,5.257454
+FAC00103,Anambra PHC 4,Anambra,Anambra South,PHC,Public,6.659379,7.324141
+FAC00104,Anambra PHC 5,Anambra,Anambra North,PHC,Public,6.797635,7.934481
+FAC00105,Anambra PHC 6,Anambra,Anambra Central,PHC,Public,13.109272,12.870447
+FAC00106,Anambra General Hospital 7,Anambra,Anambra North,General Hospital,Public,8.18243,14.192742
+FAC00107,Anambra General Hospital 8,Anambra,Anambra North,General Hospital,Public,11.776023,8.764441
+FAC00108,Anambra General Hospital 9,Anambra,Anambra South,General Hospital,Public,7.808909,14.638973
+FAC00109,Anambra General Hospital 10,Anambra,Anambra South,General Hospital,Public,4.368219,4.606225
+FAC00110,Anambra PHC 11,Anambra,Anambra West,PHC,Public,12.12901,14.996612
+FAC00111,Anambra General Hospital 12,Anambra,Anambra Central,General Hospital,Public,11.261208,12.084974
+FAC00112,Anambra PHC 13,Anambra,Anambra North,PHC,Public,5.291594,14.448612
+FAC00113,Anambra PHC 14,Anambra,Anambra North,PHC,Public,11.569991,3.562758
+FAC00114,Anambra PHC 15,Anambra,Anambra South,PHC,Public,9.203077,12.267821
+FAC00115,Anambra PHC 16,Anambra,Anambra West,PHC,Private,9.60938,13.519843
+FAC00116,Anambra PHC 17,Anambra,Anambra Central,PHC,Public,10.203096,11.448957
+FAC00117,Anambra PHC 18,Anambra,Anambra West,PHC,Public,13.804627,10.297054
+FAC00118,Anambra PHC 19,Anambra,Anambra East,PHC,Public,13.041587,7.179066
+FAC00119,Anambra PHC 20,Anambra,Anambra West,PHC,Public,6.979595,9.283227
+FAC00120,Anambra PHC 21,Anambra,Anambra South,PHC,Public,13.265876,8.905396
+FAC00121,Anambra PHC 22,Anambra,Anambra South,PHC,Public,10.208057,7.168961
+FAC00122,Anambra PHC 23,Anambra,Anambra East,PHC,Public,4.758633,4.546557
+FAC00123,Anambra PHC 24,Anambra,Anambra West,PHC,Public,5.818801,7.148007
+FAC00124,Anambra General Hospital 25,Anambra,Anambra Central,General Hospital,Public,13.731103,10.223225
+FAC00125,Anambra PHC 26,Anambra,Anambra South,PHC,Public,6.785903,5.124126
+FAC00126,Anambra PHC 27,Anambra,Anambra North,PHC,Public,7.559915,13.730607
+FAC00127,Anambra PHC 28,Anambra,Anambra East,PHC,Public,4.393121,12.592925
+FAC00128,Anambra PHC 29,Anambra,Anambra East,PHC,Public,13.208724,3.732936
+FAC00129,Anambra PHC 30,Anambra,Anambra North,PHC,Public,9.972781,14.835084
+FAC00130,Anambra PHC 31,Anambra,Anambra South,PHC,Private,11.599554,9.375189
+FAC00131,Anambra PHC 32,Anambra,Anambra East,PHC,Public,6.524369,11.560195
+FAC00132,Anambra General Hospital 33,Anambra,Anambra West,General Hospital,Public,5.07172,8.368948
+FAC00133,Bauchi PHC 1,Bauchi,Bauchi North,PHC,Public,11.374052,5.187407
+FAC00134,Bauchi PHC 2,Bauchi,Bauchi South,PHC,Public,9.353356,5.798597
+FAC00135,Bauchi PHC 3,Bauchi,Bauchi South,PHC,Public,11.891712,8.981306
+FAC00136,Bauchi PHC 4,Bauchi,Bauchi South,PHC,Public,9.577423,10.038425
+FAC00137,Bauchi PHC 5,Bauchi,Bauchi Central,PHC,Public,7.630823,10.751007
+FAC00138,Bauchi PHC 6,Bauchi,Bauchi Central,PHC,Public,7.303485,14.204302
+FAC00139,Bauchi PHC 7,Bauchi,Bauchi West,PHC,Public,12.508175,4.054651
+FAC00140,Bauchi General Hospital 8,Bauchi,Bauchi North,General Hospital,Public,4.802337,9.294137
+FAC00141,Bauchi PHC 9,Bauchi,Bauchi South,PHC,Private,9.759984,14.008747
+FAC00142,Bauchi PHC 10,Bauchi,Bauchi East,PHC,Private,12.208615,11.621487
+FAC00143,Bauchi PHC 11,Bauchi,Bauchi Central,PHC,Public,11.694929,5.244525
+FAC00144,Bauchi PHC 12,Bauchi,Bauchi North,PHC,Public,11.362472,9.35808
+FAC00145,Bauchi PHC 13,Bauchi,Bauchi Central,PHC,Public,9.06104,14.184172
+FAC00146,Bauchi PHC 14,Bauchi,Bauchi South,PHC,Public,8.54268,9.583237
+FAC00147,Bauchi PHC 15,Bauchi,Bauchi South,PHC,Public,4.878681,4.665897
+FAC00148,Bauchi PHC 16,Bauchi,Bauchi East,PHC,Public,7.488683,14.15435
+FAC00149,Bauchi General Hospital 17,Bauchi,Bauchi Central,General Hospital,Private,11.308675,14.260085
+FAC00150,Bauchi PHC 18,Bauchi,Bauchi West,PHC,Public,12.418288,4.677269
+FAC00151,Bauchi PHC 19,Bauchi,Bauchi East,PHC,Public,5.642658,12.774897
+FAC00152,Bauchi PHC 20,Bauchi,Bauchi West,PHC,Public,7.161966,10.05968
+FAC00153,Bauchi PHC 21,Bauchi,Bauchi East,PHC,Public,10.241015,9.477373
+FAC00154,Bauchi PHC 22,Bauchi,Bauchi North,PHC,Public,12.995746,7.606695
+FAC00155,Bauchi PHC 23,Bauchi,Bauchi East,PHC,Private,9.428493,8.178338
+FAC00156,Bauchi PHC 24,Bauchi,Bauchi South,PHC,Public,5.392721,12.528302
+FAC00157,Bauchi PHC 25,Bauchi,Bauchi East,PHC,Public,11.885972,4.820099
+FAC00158,Bauchi PHC 26,Bauchi,Bauchi North,PHC,Public,4.335324,9.838676
+FAC00159,Bauchi PHC 27,Bauchi,Bauchi North,PHC,Private,5.02916,9.437776
+FAC00160,Bauchi PHC 28,Bauchi,Bauchi West,PHC,Public,7.972873,12.567544
+FAC00161,Bauchi PHC 29,Bauchi,Bauchi West,PHC,Public,11.71882,3.146437
+FAC00162,Bauchi PHC 30,Bauchi,Bauchi South,PHC,Public,6.517991,7.148352
+FAC00163,Bauchi PHC 31,Bauchi,Bauchi South,PHC,Private,13.472833,4.840217
+FAC00164,Bauchi PHC 32,Bauchi,Bauchi North,PHC,Public,6.560155,11.713147
+FAC00165,Bauchi PHC 33,Bauchi,Bauchi West,PHC,Public,11.900846,3.276271
+FAC00166,Bayelsa PHC 1,Bayelsa,Bayelsa South,PHC,Public,4.689215,3.927853
+FAC00167,Bayelsa PHC 2,Bayelsa,Bayelsa East,PHC,Public,8.508394,4.358857
+FAC00168,Bayelsa General Hospital 3,Bayelsa,Bayelsa North,General Hospital,Public,7.321464,6.737331
+FAC00169,Bayelsa PHC 4,Bayelsa,Bayelsa North,PHC,Public,11.442497,5.466958
+FAC00170,Bayelsa PHC 5,Bayelsa,Bayelsa East,PHC,Public,7.981687,9.448747
+FAC00171,Bayelsa General Hospital 6,Bayelsa,Bayelsa South,General Hospital,Public,8.80837,14.021457
+FAC00172,Bayelsa PHC 7,Bayelsa,Bayelsa East,PHC,Public,5.40857,5.116644
+FAC00173,Bayelsa PHC 8,Bayelsa,Bayelsa North,PHC,Public,7.623939,9.96706
+FAC00174,Bayelsa PHC 9,Bayelsa,Bayelsa Central,PHC,Public,9.151737,14.706496
+FAC00175,Bayelsa PHC 10,Bayelsa,Bayelsa West,PHC,Public,9.350697,5.213554
+FAC00176,Bayelsa PHC 11,Bayelsa,Bayelsa East,PHC,Public,6.099056,13.776651
+FAC00177,Bayelsa PHC 12,Bayelsa,Bayelsa Central,PHC,Public,7.777259,13.038778
+FAC00178,Bayelsa PHC 13,Bayelsa,Bayelsa East,PHC,Public,8.532888,9.292683
+FAC00179,Bayelsa PHC 14,Bayelsa,Bayelsa East,PHC,Public,5.552402,5.183138
+FAC00180,Bayelsa General Hospital 15,Bayelsa,Bayelsa South,General Hospital,Private,6.707447,10.727995
+FAC00181,Bayelsa PHC 16,Bayelsa,Bayelsa West,PHC,Public,12.397889,13.403925
+FAC00182,Bayelsa PHC 17,Bayelsa,Bayelsa East,PHC,Public,6.310748,11.062713
+FAC00183,Bayelsa PHC 18,Bayelsa,Bayelsa Central,PHC,Public,5.785447,10.832953
+FAC00184,Bayelsa PHC 19,Bayelsa,Bayelsa East,PHC,Public,13.626493,14.332917
+FAC00185,Bayelsa PHC 20,Bayelsa,Bayelsa South,PHC,Public,4.130019,4.026102
+FAC00186,Bayelsa PHC 21,Bayelsa,Bayelsa Central,PHC,Public,12.764441,10.715107
+FAC00187,Bayelsa PHC 22,Bayelsa,Bayelsa Central,PHC,Private,7.418174,6.113081
+FAC00188,Bayelsa PHC 23,Bayelsa,Bayelsa West,PHC,Public,12.306545,7.142306
+FAC00189,Bayelsa PHC 24,Bayelsa,Bayelsa Central,PHC,Public,6.944658,14.38144
+FAC00190,Bayelsa PHC 25,Bayelsa,Bayelsa South,PHC,Public,9.657766,14.824408
+FAC00191,Bayelsa PHC 26,Bayelsa,Bayelsa South,PHC,Public,4.224693,6.224128
+FAC00192,Bayelsa PHC 27,Bayelsa,Bayelsa North,PHC,Public,5.393561,13.019163
+FAC00193,Bayelsa General Hospital 28,Bayelsa,Bayelsa Central,General Hospital,Public,10.912219,11.198206
+FAC00194,Bayelsa General Hospital 29,Bayelsa,Bayelsa South,General Hospital,Public,9.765165,6.288663
+FAC00195,Bayelsa PHC 30,Bayelsa,Bayelsa South,PHC,Public,11.202026,4.278945
+FAC00196,Bayelsa PHC 31,Bayelsa,Bayelsa East,PHC,Public,9.974131,10.206202
+FAC00197,Bayelsa PHC 32,Bayelsa,Bayelsa Central,PHC,Public,12.38107,7.852578
+FAC00198,Bayelsa PHC 33,Bayelsa,Bayelsa South,PHC,Public,5.662834,11.856403
+FAC00199,Benue PHC 1,Benue,Benue South,PHC,Public,4.682497,13.044948
+FAC00200,Benue PHC 2,Benue,Benue East,PHC,Private,6.971217,9.796856
+FAC00201,Benue PHC 3,Benue,Benue Central,PHC,Public,8.837549,6.238935
+FAC00202,Benue PHC 4,Benue,Benue West,PHC,Public,4.514258,8.956395
+FAC00203,Benue PHC 5,Benue,Benue South,PHC,Public,8.742373,7.132605
+FAC00204,Benue PHC 6,Benue,Benue Central,PHC,Public,10.884024,8.217928
+FAC00205,Benue PHC 7,Benue,Benue Central,PHC,Public,4.023394,14.612393
+FAC00206,Benue PHC 8,Benue,Benue Central,PHC,Public,4.915821,14.007763
+FAC00207,Benue PHC 9,Benue,Benue North,PHC,Private,5.851329,9.502811
+FAC00208,Benue General Hospital 10,Benue,Benue Central,General Hospital,Public,11.590358,11.68924
+FAC00209,Benue PHC 11,Benue,Benue South,PHC,Private,8.89425,5.654513
+FAC00210,Benue General Hospital 12,Benue,Benue South,General Hospital,Private,9.882638,14.992242
+FAC00211,Benue PHC 13,Benue,Benue Central,PHC,Public,11.310237,5.311188
+FAC00212,Benue PHC 14,Benue,Benue Central,PHC,Public,8.742142,13.344512
+FAC00213,Benue General Hospital 15,Benue,Benue South,General Hospital,Public,10.445467,10.802008
+FAC00214,Benue PHC 16,Benue,Benue Central,PHC,Public,4.769532,11.355465
+FAC00215,Benue PHC 17,Benue,Benue West,PHC,Public,9.724278,12.647724
+FAC00216,Benue PHC 18,Benue,Benue Central,PHC,Public,10.258914,13.631733
+FAC00217,Benue PHC 19,Benue,Benue East,PHC,Public,12.700989,3.255233
+FAC00218,Benue General Hospital 20,Benue,Benue East,General Hospital,Public,4.700297,3.113825
+FAC00219,Benue PHC 21,Benue,Benue Central,PHC,Public,8.797813,9.969086
+FAC00220,Benue PHC 22,Benue,Benue North,PHC,Public,7.363705,9.27023
+FAC00221,Benue PHC 23,Benue,Benue Central,PHC,Public,7.546222,6.446868
+FAC00222,Benue PHC 24,Benue,Benue North,PHC,Public,6.772656,13.924069
+FAC00223,Benue PHC 25,Benue,Benue North,PHC,Public,10.796473,5.619047
+FAC00224,Benue General Hospital 26,Benue,Benue East,General Hospital,Public,9.885542,14.787966
+FAC00225,Benue General Hospital 27,Benue,Benue Central,General Hospital,Public,13.891849,11.920234
+FAC00226,Benue PHC 28,Benue,Benue Central,PHC,Public,10.496466,10.292842
+FAC00227,Benue PHC 29,Benue,Benue South,PHC,Public,7.840906,3.440783
+FAC00228,Benue General Hospital 30,Benue,Benue Central,General Hospital,Public,4.578427,14.629232
+FAC00229,Benue General Hospital 31,Benue,Benue South,General Hospital,Private,9.250315,6.1228
+FAC00230,Benue PHC 32,Benue,Benue North,PHC,Public,5.538959,12.789997
+FAC00231,Benue PHC 33,Benue,Benue North,PHC,Public,9.929399,9.961034
+FAC00232,Borno PHC 1,Borno,Borno East,PHC,Private,6.729594,8.720122
+FAC00233,Borno PHC 2,Borno,Borno South,PHC,Private,12.095161,10.862904
+FAC00234,Borno PHC 3,Borno,Borno West,PHC,Public,7.726885,6.117045
+FAC00235,Borno PHC 4,Borno,Borno Central,PHC,Public,6.201832,11.199105
+FAC00236,Borno PHC 5,Borno,Borno Central,PHC,Private,8.805866,10.108893
+FAC00237,Borno General Hospital 6,Borno,Borno South,General Hospital,Public,9.437789,13.373915
+FAC00238,Borno PHC 7,Borno,Borno West,PHC,Public,12.505817,13.40753
+FAC00239,Borno PHC 8,Borno,Borno North,PHC,Public,13.300904,4.270009
+FAC00240,Borno PHC 9,Borno,Borno Central,PHC,Public,12.808708,13.462122
+FAC00241,Borno PHC 10,Borno,Borno South,PHC,Public,12.199469,5.743502
+FAC00242,Borno General Hospital 11,Borno,Borno South,General Hospital,Public,12.321342,9.089613
+FAC00243,Borno PHC 12,Borno,Borno East,PHC,Public,13.811862,10.581762
+FAC00244,Borno PHC 13,Borno,Borno Central,PHC,Public,11.798454,4.283768
+FAC00245,Borno PHC 14,Borno,Borno South,PHC,Public,7.418722,10.591463
+FAC00246,Borno General Hospital 15,Borno,Borno West,General Hospital,Public,5.737535,12.250249
+FAC00247,Borno General Hospital 16,Borno,Borno West,General Hospital,Public,4.673506,9.986046
+FAC00248,Borno PHC 17,Borno,Borno East,PHC,Public,12.524147,14.88178
+FAC00249,Borno PHC 18,Borno,Borno East,PHC,Public,5.300862,12.099158
+FAC00250,Borno PHC 19,Borno,Borno East,PHC,Public,6.525087,3.012354
+FAC00251,Borno PHC 20,Borno,Borno West,PHC,Public,8.261813,8.416644
+FAC00252,Borno PHC 21,Borno,Borno Central,PHC,Public,6.983744,13.079366
+FAC00253,Borno PHC 22,Borno,Borno East,PHC,Public,6.732595,14.410363
+FAC00254,Borno PHC 23,Borno,Borno Central,PHC,Public,13.095245,13.288321
+FAC00255,Borno General Hospital 24,Borno,Borno Central,General Hospital,Public,13.839776,7.912008
+FAC00256,Borno General Hospital 25,Borno,Borno Central,General Hospital,Public,6.003591,13.417474
+FAC00257,Borno PHC 26,Borno,Borno West,PHC,Public,8.732099,14.618321
+FAC00258,Borno PHC 27,Borno,Borno Central,PHC,Private,5.53658,8.444324
+FAC00259,Borno PHC 28,Borno,Borno Central,PHC,Public,5.312449,3.390314
+FAC00260,Borno General Hospital 29,Borno,Borno North,General Hospital,Public,4.012318,10.179927
+FAC00261,Borno PHC 30,Borno,Borno North,PHC,Public,6.005247,8.899135
+FAC00262,Borno PHC 31,Borno,Borno Central,PHC,Public,9.902639,8.198961
+FAC00263,Borno General Hospital 32,Borno,Borno Central,General Hospital,Public,4.724469,7.709923
+FAC00264,Borno PHC 33,Borno,Borno East,PHC,Public,10.949819,13.321469
+FAC00265,Cross River PHC 1,Cross River,Cross River East,PHC,Public,5.049302,5.90454
+FAC00266,Cross River General Hospital 2,Cross River,Cross River West,General Hospital,Public,11.02465,9.715784
+FAC00267,Cross River PHC 3,Cross River,Cross River South,PHC,Public,9.342422,13.590402
+FAC00268,Cross River PHC 4,Cross River,Cross River South,PHC,Public,7.969233,4.592589
+FAC00269,Cross River PHC 5,Cross River,Cross River South,PHC,Public,12.214407,3.494202
+FAC00270,Cross River PHC 6,Cross River,Cross River Central,PHC,Private,11.064757,3.379034
+FAC00271,Cross River General Hospital 7,Cross River,Cross River North,General Hospital,Public,11.090605,13.451629
+FAC00272,Cross River PHC 8,Cross River,Cross River East,PHC,Public,8.843984,10.929841
+FAC00273,Cross River PHC 9,Cross River,Cross River South,PHC,Public,8.809038,3.489049
+FAC00274,Cross River PHC 10,Cross River,Cross River South,PHC,Public,4.603521,5.965239
+FAC00275,Cross River PHC 11,Cross River,Cross River South,PHC,Private,7.290174,8.642191
+FAC00276,Cross River PHC 12,Cross River,Cross River Central,PHC,Private,10.587078,8.978349
+FAC00277,Cross River PHC 13,Cross River,Cross River Central,PHC,Public,13.963339,14.697518
+FAC00278,Cross River PHC 14,Cross River,Cross River East,PHC,Public,6.205611,8.020797
+FAC00279,Cross River PHC 15,Cross River,Cross River North,PHC,Public,12.682725,11.726029
+FAC00280,Cross River PHC 16,Cross River,Cross River West,PHC,Public,11.353503,12.212687
+FAC00281,Cross River PHC 17,Cross River,Cross River East,PHC,Public,9.786754,8.263385
+FAC00282,Cross River PHC 18,Cross River,Cross River South,PHC,Public,9.977236,12.515473
+FAC00283,Cross River PHC 19,Cross River,Cross River South,PHC,Private,13.123633,5.527946
+FAC00284,Cross River PHC 20,Cross River,Cross River North,PHC,Public,5.315677,11.5899
+FAC00285,Cross River General Hospital 21,Cross River,Cross River West,General Hospital,Public,7.728486,9.151382
+FAC00286,Cross River PHC 22,Cross River,Cross River North,PHC,Public,6.472311,13.448999
+FAC00287,Cross River PHC 23,Cross River,Cross River North,PHC,Public,10.626213,4.143138
+FAC00288,Cross River PHC 24,Cross River,Cross River West,PHC,Public,6.581334,10.88084
+FAC00289,Cross River PHC 25,Cross River,Cross River West,PHC,Public,13.69821,8.445474
+FAC00290,Cross River PHC 26,Cross River,Cross River South,PHC,Public,8.487776,11.032685
+FAC00291,Cross River PHC 27,Cross River,Cross River East,PHC,Public,13.485834,6.030333
+FAC00292,Cross River PHC 28,Cross River,Cross River East,PHC,Public,11.36402,10.965654
+FAC00293,Cross River PHC 29,Cross River,Cross River West,PHC,Public,8.463686,13.370594
+FAC00294,Cross River PHC 30,Cross River,Cross River West,PHC,Public,6.697496,3.685042
+FAC00295,Cross River PHC 31,Cross River,Cross River Central,PHC,Private,10.40003,5.696414
+FAC00296,Cross River PHC 32,Cross River,Cross River North,PHC,Public,9.072348,3.498874
+FAC00297,Cross River PHC 33,Cross River,Cross River East,PHC,Private,4.0494,14.421741
+FAC00298,Delta PHC 1,Delta,Delta East,PHC,Private,8.888466,11.002371
+FAC00299,Delta PHC 2,Delta,Delta Central,PHC,Public,5.435424,14.277838
+FAC00300,Delta PHC 3,Delta,Delta Central,PHC,Public,4.939007,11.071225
+FAC00301,Delta PHC 4,Delta,Delta South,PHC,Private,10.616324,14.743575
+FAC00302,Delta PHC 5,Delta,Delta South,PHC,Public,10.178472,13.42686
+FAC00303,Delta PHC 6,Delta,Delta North,PHC,Public,10.895268,11.118161
+FAC00304,Delta PHC 7,Delta,Delta Central,PHC,Public,10.669715,9.926223
+FAC00305,Delta PHC 8,Delta,Delta North,PHC,Public,12.664387,14.920043
+FAC00306,Delta PHC 9,Delta,Delta North,PHC,Public,5.091096,10.80614
+FAC00307,Delta PHC 10,Delta,Delta East,PHC,Private,12.078459,12.147422
+FAC00308,Delta PHC 11,Delta,Delta East,PHC,Public,7.756723,6.562431
+FAC00309,Delta PHC 12,Delta,Delta North,PHC,Public,7.664615,7.754072
+FAC00310,Delta PHC 13,Delta,Delta North,PHC,Public,9.964855,9.548243
+FAC00311,Delta PHC 14,Delta,Delta East,PHC,Public,10.034486,11.018554
+FAC00312,Delta PHC 15,Delta,Delta East,PHC,Public,9.423637,14.417743
+FAC00313,Delta General Hospital 16,Delta,Delta Central,General Hospital,Private,7.412478,7.562347
+FAC00314,Delta PHC 17,Delta,Delta West,PHC,Public,8.766955,7.732384
+FAC00315,Delta PHC 18,Delta,Delta West,PHC,Public,13.555237,3.218791
+FAC00316,Delta PHC 19,Delta,Delta Central,PHC,Public,12.980305,5.921788
+FAC00317,Delta General Hospital 20,Delta,Delta Central,General Hospital,Public,8.791832,5.3347
+FAC00318,Delta PHC 21,Delta,Delta Central,PHC,Public,6.848729,6.68748
+FAC00319,Delta General Hospital 22,Delta,Delta South,General Hospital,Public,10.103338,11.593808
+FAC00320,Delta PHC 23,Delta,Delta North,PHC,Public,9.22481,4.478672
+FAC00321,Delta General Hospital 24,Delta,Delta North,General Hospital,Public,9.673122,6.078753
+FAC00322,Delta General Hospital 25,Delta,Delta North,General Hospital,Public,7.735097,9.31799
+FAC00323,Delta PHC 26,Delta,Delta Central,PHC,Public,12.842065,5.736957
+FAC00324,Delta PHC 27,Delta,Delta South,PHC,Public,7.607725,13.870693
+FAC00325,Delta PHC 28,Delta,Delta East,PHC,Public,11.805255,6.297672
+FAC00326,Delta General Hospital 29,Delta,Delta South,General Hospital,Public,12.0953,12.199874
+FAC00327,Delta PHC 30,Delta,Delta Central,PHC,Public,5.680142,11.842485
+FAC00328,Delta General Hospital 31,Delta,Delta North,General Hospital,Public,5.78446,6.747261
+FAC00329,Delta PHC 32,Delta,Delta East,PHC,Public,6.319471,7.690872
+FAC00330,Delta PHC 33,Delta,Delta South,PHC,Public,6.745403,10.164563
+FAC00331,Ebonyi PHC 1,Ebonyi,Ebonyi Central,PHC,Public,11.175978,11.309234
+FAC00332,Ebonyi General Hospital 2,Ebonyi,Ebonyi East,General Hospital,Public,10.032194,7.046726
+FAC00333,Ebonyi General Hospital 3,Ebonyi,Ebonyi West,General Hospital,Public,4.856582,13.73029
+FAC00334,Ebonyi PHC 4,Ebonyi,Ebonyi East,PHC,Public,7.435605,10.405869
+FAC00335,Ebonyi PHC 5,Ebonyi,Ebonyi West,PHC,Public,12.003565,5.804545
+FAC00336,Ebonyi PHC 6,Ebonyi,Ebonyi South,PHC,Private,10.801319,5.76995
+FAC00337,Ebonyi PHC 7,Ebonyi,Ebonyi South,PHC,Public,13.941394,10.94207
+FAC00338,Ebonyi PHC 8,Ebonyi,Ebonyi West,PHC,Public,4.601423,9.747562
+FAC00339,Ebonyi General Hospital 9,Ebonyi,Ebonyi North,General Hospital,Public,5.704779,7.913734
+FAC00340,Ebonyi PHC 10,Ebonyi,Ebonyi West,PHC,Public,7.475715,10.978941
+FAC00341,Ebonyi PHC 11,Ebonyi,Ebonyi Central,PHC,Private,5.19829,14.689976
+FAC00342,Ebonyi PHC 12,Ebonyi,Ebonyi West,PHC,Public,6.436567,11.058701
+FAC00343,Ebonyi PHC 13,Ebonyi,Ebonyi North,PHC,Public,10.084864,9.082061
+FAC00344,Ebonyi PHC 14,Ebonyi,Ebonyi West,PHC,Public,7.031284,6.157351
+FAC00345,Ebonyi PHC 15,Ebonyi,Ebonyi East,PHC,Public,6.390553,9.116691
+FAC00346,Ebonyi General Hospital 16,Ebonyi,Ebonyi South,General Hospital,Public,10.005943,9.188153
+FAC00347,Ebonyi General Hospital 17,Ebonyi,Ebonyi West,General Hospital,Public,12.51425,5.502126
+FAC00348,Ebonyi General Hospital 18,Ebonyi,Ebonyi South,General Hospital,Public,10.279501,11.091646
+FAC00349,Ebonyi PHC 19,Ebonyi,Ebonyi East,PHC,Public,11.900304,6.65615
+FAC00350,Ebonyi PHC 20,Ebonyi,Ebonyi South,PHC,Public,5.537911,5.683373
+FAC00351,Ebonyi General Hospital 21,Ebonyi,Ebonyi South,General Hospital,Public,12.224806,4.590296
+FAC00352,Ebonyi General Hospital 22,Ebonyi,Ebonyi North,General Hospital,Private,10.062529,12.177718
+FAC00353,Ebonyi PHC 23,Ebonyi,Ebonyi North,PHC,Public,12.252008,10.995683
+FAC00354,Ebonyi PHC 24,Ebonyi,Ebonyi West,PHC,Public,5.351663,14.557381
+FAC00355,Ebonyi PHC 25,Ebonyi,Ebonyi West,PHC,Private,7.118161,9.073702
+FAC00356,Ebonyi PHC 26,Ebonyi,Ebonyi Central,PHC,Public,4.176878,10.230638
+FAC00357,Ebonyi PHC 27,Ebonyi,Ebonyi Central,PHC,Public,11.807616,8.517605
+FAC00358,Ebonyi PHC 28,Ebonyi,Ebonyi Central,PHC,Private,10.194978,6.568261
+FAC00359,Ebonyi PHC 29,Ebonyi,Ebonyi Central,PHC,Public,5.213849,6.639302
+FAC00360,Ebonyi PHC 30,Ebonyi,Ebonyi West,PHC,Public,10.180517,10.598276
+FAC00361,Ebonyi PHC 31,Ebonyi,Ebonyi West,PHC,Public,7.062536,10.48675
+FAC00362,Ebonyi PHC 32,Ebonyi,Ebonyi Central,PHC,Public,12.866042,8.397416
+FAC00363,Ebonyi PHC 33,Ebonyi,Ebonyi West,PHC,Public,8.816348,5.122646
+FAC00364,Edo PHC 1,Edo,Edo South,PHC,Private,5.338037,8.022967
+FAC00365,Edo PHC 2,Edo,Edo South,PHC,Public,5.896948,10.427378
+FAC00366,Edo PHC 3,Edo,Edo Central,PHC,Public,13.758738,12.618445
+FAC00367,Edo General Hospital 4,Edo,Edo East,General Hospital,Public,6.658511,10.753081
+FAC00368,Edo PHC 5,Edo,Edo Central,PHC,Public,8.882411,4.800584
+FAC00369,Edo PHC 6,Edo,Edo East,PHC,Public,7.758883,7.733715
+FAC00370,Edo PHC 7,Edo,Edo Central,PHC,Public,5.33145,4.225794
+FAC00371,Edo PHC 8,Edo,Edo South,PHC,Private,8.376031,6.056047
+FAC00372,Edo General Hospital 9,Edo,Edo West,General Hospital,Public,11.811704,12.901586
+FAC00373,Edo PHC 10,Edo,Edo North,PHC,Public,10.139336,3.799824
+FAC00374,Edo PHC 11,Edo,Edo West,PHC,Public,9.122219,11.162733
+FAC00375,Edo PHC 12,Edo,Edo East,PHC,Public,10.590355,12.625567
+FAC00376,Edo PHC 13,Edo,Edo West,PHC,Public,11.375084,7.239017
+FAC00377,Edo PHC 14,Edo,Edo East,PHC,Public,10.613706,5.222347
+FAC00378,Edo PHC 15,Edo,Edo South,PHC,Public,4.20945,3.98606
+FAC00379,Edo General Hospital 16,Edo,Edo North,General Hospital,Public,13.759908,11.008205
+FAC00380,Edo PHC 17,Edo,Edo West,PHC,Public,11.746338,10.726851
+FAC00381,Edo PHC 18,Edo,Edo South,PHC,Public,7.222155,4.502803
+FAC00382,Edo PHC 19,Edo,Edo Central,PHC,Public,9.824227,11.976878
+FAC00383,Edo General Hospital 20,Edo,Edo East,General Hospital,Public,4.437356,4.329696
+FAC00384,Edo PHC 21,Edo,Edo East,PHC,Public,9.500919,7.663834
+FAC00385,Edo PHC 22,Edo,Edo West,PHC,Public,5.215014,5.369646
+FAC00386,Edo General Hospital 23,Edo,Edo East,General Hospital,Public,10.714549,6.80307
+FAC00387,Edo General Hospital 24,Edo,Edo South,General Hospital,Public,10.360708,5.65276
+FAC00388,Edo General Hospital 25,Edo,Edo West,General Hospital,Public,4.538582,6.840718
+FAC00389,Edo PHC 26,Edo,Edo West,PHC,Public,4.431737,4.977778
+FAC00390,Edo PHC 27,Edo,Edo East,PHC,Public,13.651297,8.86073
+FAC00391,Edo PHC 28,Edo,Edo East,PHC,Public,11.58185,11.921085
+FAC00392,Edo PHC 29,Edo,Edo Central,PHC,Public,4.937569,9.926073
+FAC00393,Edo General Hospital 30,Edo,Edo South,General Hospital,Public,9.580423,12.741027
+FAC00394,Edo PHC 31,Edo,Edo West,PHC,Private,4.991781,7.817932
+FAC00395,Edo General Hospital 32,Edo,Edo South,General Hospital,Public,11.423481,12.781421
+FAC00396,Edo PHC 33,Edo,Edo Central,PHC,Public,9.386957,9.28991
+FAC00397,Ekiti General Hospital 1,Ekiti,Ekiti West,General Hospital,Public,11.457338,5.429767
+FAC00398,Ekiti General Hospital 2,Ekiti,Ekiti East,General Hospital,Public,11.562647,13.103644
+FAC00399,Ekiti PHC 3,Ekiti,Ekiti South,PHC,Public,7.683095,8.383328
+FAC00400,Ekiti PHC 4,Ekiti,Ekiti East,PHC,Private,5.378229,10.956504
+FAC00401,Ekiti PHC 5,Ekiti,Ekiti South,PHC,Public,10.195893,7.265916
+FAC00402,Ekiti PHC 6,Ekiti,Ekiti West,PHC,Public,9.101097,11.680857
+FAC00403,Ekiti PHC 7,Ekiti,Ekiti West,PHC,Public,9.606601,10.241852
+FAC00404,Ekiti PHC 8,Ekiti,Ekiti West,PHC,Public,12.250494,8.979068
+FAC00405,Ekiti PHC 9,Ekiti,Ekiti Central,PHC,Public,11.459252,14.78363
+FAC00406,Ekiti PHC 10,Ekiti,Ekiti East,PHC,Public,8.40199,4.76943
+FAC00407,Ekiti PHC 11,Ekiti,Ekiti South,PHC,Public,7.71422,3.750507
+FAC00408,Ekiti General Hospital 12,Ekiti,Ekiti North,General Hospital,Public,13.331133,10.710782
+FAC00409,Ekiti PHC 13,Ekiti,Ekiti East,PHC,Public,10.859113,14.893517
+FAC00410,Ekiti PHC 14,Ekiti,Ekiti South,PHC,Public,9.877694,5.213715
+FAC00411,Ekiti PHC 15,Ekiti,Ekiti Central,PHC,Public,11.00252,10.029722
+FAC00412,Ekiti PHC 16,Ekiti,Ekiti East,PHC,Public,6.987256,14.288151
+FAC00413,Ekiti PHC 17,Ekiti,Ekiti East,PHC,Public,7.769142,8.540794
+FAC00414,Ekiti PHC 18,Ekiti,Ekiti Central,PHC,Public,11.06019,10.574048
+FAC00415,Ekiti PHC 19,Ekiti,Ekiti East,PHC,Private,8.368507,11.754099
+FAC00416,Ekiti PHC 20,Ekiti,Ekiti West,PHC,Public,5.313494,7.786032
+FAC00417,Ekiti General Hospital 21,Ekiti,Ekiti Central,General Hospital,Public,4.68958,3.684657
+FAC00418,Ekiti PHC 22,Ekiti,Ekiti East,PHC,Public,6.756123,12.445519
+FAC00419,Ekiti General Hospital 23,Ekiti,Ekiti South,General Hospital,Public,12.447894,6.217668
+FAC00420,Ekiti PHC 24,Ekiti,Ekiti East,PHC,Private,4.626532,13.877249
+FAC00421,Ekiti PHC 25,Ekiti,Ekiti North,PHC,Public,11.718577,4.037095
+FAC00422,Ekiti PHC 26,Ekiti,Ekiti East,PHC,Public,13.633944,9.722018
+FAC00423,Ekiti General Hospital 27,Ekiti,Ekiti West,General Hospital,Public,11.87713,10.493105
+FAC00424,Ekiti PHC 28,Ekiti,Ekiti Central,PHC,Private,10.541746,5.377172
+FAC00425,Ekiti PHC 29,Ekiti,Ekiti North,PHC,Public,13.47036,14.608274
+FAC00426,Ekiti PHC 30,Ekiti,Ekiti Central,PHC,Public,6.253169,6.0116
+FAC00427,Ekiti General Hospital 31,Ekiti,Ekiti North,General Hospital,Public,13.805168,5.728914
+FAC00428,Ekiti PHC 32,Ekiti,Ekiti North,PHC,Public,9.435382,3.980704
+FAC00429,Ekiti PHC 33,Ekiti,Ekiti Central,PHC,Public,5.409596,10.970255
+FAC00430,Enugu PHC 1,Enugu,Enugu East,PHC,Public,10.509735,9.545182
+FAC00431,Enugu PHC 2,Enugu,Enugu West,PHC,Public,7.559734,14.736742
+FAC00432,Enugu PHC 3,Enugu,Enugu Central,PHC,Public,5.647064,6.962581
+FAC00433,Enugu PHC 4,Enugu,Enugu Central,PHC,Public,10.596294,4.939438
+FAC00434,Enugu PHC 5,Enugu,Enugu South,PHC,Private,11.507295,9.695769
+FAC00435,Enugu PHC 6,Enugu,Enugu East,PHC,Public,13.092202,9.464422
+FAC00436,Enugu PHC 7,Enugu,Enugu West,PHC,Public,8.516968,7.768577
+FAC00437,Enugu PHC 8,Enugu,Enugu East,PHC,Public,6.037665,9.279956
+FAC00438,Enugu PHC 9,Enugu,Enugu West,PHC,Public,6.764417,6.748189
+FAC00439,Enugu PHC 10,Enugu,Enugu South,PHC,Public,5.579548,11.350789
+FAC00440,Enugu PHC 11,Enugu,Enugu East,PHC,Public,7.631007,13.766236
+FAC00441,Enugu PHC 12,Enugu,Enugu West,PHC,Public,6.020157,5.210698
+FAC00442,Enugu General Hospital 13,Enugu,Enugu East,General Hospital,Public,7.13162,12.583119
+FAC00443,Enugu General Hospital 14,Enugu,Enugu North,General Hospital,Private,12.036035,9.062481
+FAC00444,Enugu General Hospital 15,Enugu,Enugu Central,General Hospital,Public,10.6792,10.616055
+FAC00445,Enugu PHC 16,Enugu,Enugu East,PHC,Private,5.622334,3.15129
+FAC00446,Enugu PHC 17,Enugu,Enugu North,PHC,Public,12.229584,5.517035
+FAC00447,Enugu PHC 18,Enugu,Enugu West,PHC,Private,12.581771,12.828762
+FAC00448,Enugu PHC 19,Enugu,Enugu West,PHC,Public,13.880656,13.815552
+FAC00449,Enugu PHC 20,Enugu,Enugu South,PHC,Public,12.192551,13.557863
+FAC00450,Enugu PHC 21,Enugu,Enugu West,PHC,Public,12.259782,4.20765
+FAC00451,Enugu PHC 22,Enugu,Enugu North,PHC,Public,11.396713,5.295125
+FAC00452,Enugu PHC 23,Enugu,Enugu North,PHC,Public,12.414476,8.655446
+FAC00453,Enugu General Hospital 24,Enugu,Enugu West,General Hospital,Public,11.392947,4.276125
+FAC00454,Enugu PHC 25,Enugu,Enugu North,PHC,Public,10.552824,14.900911
+FAC00455,Enugu PHC 26,Enugu,Enugu East,PHC,Public,10.941506,9.151857
+FAC00456,Enugu PHC 27,Enugu,Enugu East,PHC,Public,11.631553,7.899676
+FAC00457,Enugu PHC 28,Enugu,Enugu North,PHC,Private,11.660648,12.461368
+FAC00458,Enugu PHC 29,Enugu,Enugu North,PHC,Public,12.742267,3.002261
+FAC00459,Enugu PHC 30,Enugu,Enugu West,PHC,Public,7.816119,4.546185
+FAC00460,Enugu PHC 31,Enugu,Enugu East,PHC,Public,8.225484,3.504296
+FAC00461,Enugu PHC 32,Enugu,Enugu North,PHC,Private,6.922182,13.929242
+FAC00462,Enugu PHC 33,Enugu,Enugu West,PHC,Public,13.817987,10.456134
+FAC00463,Gombe PHC 1,Gombe,Gombe North,PHC,Public,6.815212,13.473046
+FAC00464,Gombe PHC 2,Gombe,Gombe Central,PHC,Public,4.683409,6.159789
+FAC00465,Gombe PHC 3,Gombe,Gombe West,PHC,Public,7.012653,10.18029
+FAC00466,Gombe PHC 4,Gombe,Gombe North,PHC,Public,4.481428,13.83474
+FAC00467,Gombe General Hospital 5,Gombe,Gombe North,General Hospital,Public,13.890284,10.514114
+FAC00468,Gombe PHC 6,Gombe,Gombe West,PHC,Public,9.828068,14.94525
+FAC00469,Gombe General Hospital 7,Gombe,Gombe Central,General Hospital,Public,6.523072,5.642704
+FAC00470,Gombe PHC 8,Gombe,Gombe North,PHC,Public,13.096268,11.030403
+FAC00471,Gombe General Hospital 9,Gombe,Gombe North,General Hospital,Private,4.25142,11.333405
+FAC00472,Gombe PHC 10,Gombe,Gombe North,PHC,Private,7.408157,4.977896
+FAC00473,Gombe PHC 11,Gombe,Gombe West,PHC,Private,11.888023,10.675267
+FAC00474,Gombe PHC 12,Gombe,Gombe West,PHC,Public,7.845113,8.852005
+FAC00475,Gombe PHC 13,Gombe,Gombe South,PHC,Private,8.728971,14.806084
+FAC00476,Gombe PHC 14,Gombe,Gombe North,PHC,Public,4.02921,3.477192
+FAC00477,Gombe PHC 15,Gombe,Gombe East,PHC,Private,6.768143,14.658392
+FAC00478,Gombe PHC 16,Gombe,Gombe East,PHC,Public,8.474681,8.691461
+FAC00479,Gombe PHC 17,Gombe,Gombe North,PHC,Public,4.07664,5.628826
+FAC00480,Gombe PHC 18,Gombe,Gombe South,PHC,Public,8.62852,8.262462
+FAC00481,Gombe PHC 19,Gombe,Gombe North,PHC,Public,7.97015,4.045113
+FAC00482,Gombe PHC 20,Gombe,Gombe East,PHC,Public,12.798627,9.897355
+FAC00483,Gombe PHC 21,Gombe,Gombe East,PHC,Public,8.50597,14.15312
+FAC00484,Gombe PHC 22,Gombe,Gombe East,PHC,Public,8.110211,13.891332
+FAC00485,Gombe PHC 23,Gombe,Gombe North,PHC,Public,12.237904,14.460726
+FAC00486,Gombe General Hospital 24,Gombe,Gombe East,General Hospital,Public,4.021038,11.610865
+FAC00487,Gombe General Hospital 25,Gombe,Gombe West,General Hospital,Public,10.865899,4.373852
+FAC00488,Gombe PHC 26,Gombe,Gombe South,PHC,Public,4.922848,10.155858
+FAC00489,Gombe PHC 27,Gombe,Gombe West,PHC,Private,4.8018,7.257256
+FAC00490,Gombe General Hospital 28,Gombe,Gombe North,General Hospital,Public,10.464501,13.656469
+FAC00491,Gombe PHC 29,Gombe,Gombe East,PHC,Public,13.132869,10.350882
+FAC00492,Gombe General Hospital 30,Gombe,Gombe East,General Hospital,Public,11.409813,9.359898
+FAC00493,Gombe General Hospital 31,Gombe,Gombe South,General Hospital,Private,4.117066,8.064411
+FAC00494,Gombe PHC 32,Gombe,Gombe Central,PHC,Public,7.993687,13.921616
+FAC00495,Gombe General Hospital 33,Gombe,Gombe North,General Hospital,Public,11.291735,10.8275
+FAC00496,Imo General Hospital 1,Imo,Imo South,General Hospital,Public,8.038979,3.931376
+FAC00497,Imo PHC 2,Imo,Imo West,PHC,Private,6.262791,7.610875
+FAC00498,Imo PHC 3,Imo,Imo North,PHC,Public,8.309852,6.826402
+FAC00499,Imo PHC 4,Imo,Imo North,PHC,Public,4.274203,7.715691
+FAC00500,Imo PHC 5,Imo,Imo West,PHC,Public,8.305293,4.71113
+FAC00501,Imo General Hospital 6,Imo,Imo West,General Hospital,Public,7.397688,9.206873
+FAC00502,Imo PHC 7,Imo,Imo East,PHC,Public,8.096289,6.73461
+FAC00503,Imo PHC 8,Imo,Imo South,PHC,Public,12.417234,9.962658
+FAC00504,Imo PHC 9,Imo,Imo North,PHC,Public,5.40553,8.827076
+FAC00505,Imo PHC 10,Imo,Imo East,PHC,Public,5.35789,4.191626
+FAC00506,Imo PHC 11,Imo,Imo East,PHC,Private,5.600249,3.280225
+FAC00507,Imo PHC 12,Imo,Imo South,PHC,Public,13.000832,4.393668
+FAC00508,Imo General Hospital 13,Imo,Imo West,General Hospital,Public,13.94858,9.544573
+FAC00509,Imo PHC 14,Imo,Imo West,PHC,Public,4.309376,14.648906
+FAC00510,Imo PHC 15,Imo,Imo North,PHC,Private,9.537115,9.500458
+FAC00511,Imo PHC 16,Imo,Imo East,PHC,Public,7.561856,12.92178
+FAC00512,Imo PHC 17,Imo,Imo Central,PHC,Public,7.42448,6.242972
+FAC00513,Imo General Hospital 18,Imo,Imo East,General Hospital,Public,5.652421,9.995813
+FAC00514,Imo General Hospital 19,Imo,Imo South,General Hospital,Public,8.888978,7.821346
+FAC00515,Imo General Hospital 20,Imo,Imo North,General Hospital,Private,11.925214,8.537346
+FAC00516,Imo PHC 21,Imo,Imo Central,PHC,Public,8.75546,9.516295
+FAC00517,Imo PHC 22,Imo,Imo Central,PHC,Private,9.991206,7.241529
+FAC00518,Imo PHC 23,Imo,Imo East,PHC,Public,9.493225,3.692893
+FAC00519,Imo PHC 24,Imo,Imo South,PHC,Public,13.440421,4.785552
+FAC00520,Imo PHC 25,Imo,Imo West,PHC,Private,11.546212,8.903173
+FAC00521,Imo PHC 26,Imo,Imo East,PHC,Public,6.032231,12.141578
+FAC00522,Imo PHC 27,Imo,Imo North,PHC,Public,7.622681,11.708598
+FAC00523,Imo General Hospital 28,Imo,Imo West,General Hospital,Public,12.275189,12.174334
+FAC00524,Imo PHC 29,Imo,Imo North,PHC,Private,4.594716,3.038014
+FAC00525,Imo PHC 30,Imo,Imo East,PHC,Public,7.118991,6.072571
+FAC00526,Imo PHC 31,Imo,Imo Central,PHC,Private,13.263826,3.229393
+FAC00527,Imo PHC 32,Imo,Imo East,PHC,Public,12.720483,9.326714
+FAC00528,Imo PHC 33,Imo,Imo West,PHC,Public,12.044372,6.345118
+FAC00529,Jigawa PHC 1,Jigawa,Jigawa East,PHC,Private,13.978209,11.121856
+FAC00530,Jigawa General Hospital 2,Jigawa,Jigawa East,General Hospital,Public,11.378695,13.009735
+FAC00531,Jigawa PHC 3,Jigawa,Jigawa Central,PHC,Public,12.219266,12.710198
+FAC00532,Jigawa General Hospital 4,Jigawa,Jigawa North,General Hospital,Public,11.231495,6.364014
+FAC00533,Jigawa PHC 5,Jigawa,Jigawa East,PHC,Public,7.488205,4.331977
+FAC00534,Jigawa General Hospital 6,Jigawa,Jigawa South,General Hospital,Private,4.060887,4.211294
+FAC00535,Jigawa General Hospital 7,Jigawa,Jigawa North,General Hospital,Public,9.006243,12.534187
+FAC00536,Jigawa PHC 8,Jigawa,Jigawa South,PHC,Public,11.101101,11.002253
+FAC00537,Jigawa PHC 9,Jigawa,Jigawa East,PHC,Private,12.034827,14.150737
+FAC00538,Jigawa PHC 10,Jigawa,Jigawa Central,PHC,Private,9.832575,13.106769
+FAC00539,Jigawa PHC 11,Jigawa,Jigawa Central,PHC,Public,10.034931,7.293769
+FAC00540,Jigawa PHC 12,Jigawa,Jigawa North,PHC,Public,11.197915,13.403202
+FAC00541,Jigawa PHC 13,Jigawa,Jigawa West,PHC,Public,10.370908,9.315342
+FAC00542,Jigawa PHC 14,Jigawa,Jigawa Central,PHC,Public,12.039585,9.630012
+FAC00543,Jigawa PHC 15,Jigawa,Jigawa South,PHC,Public,8.014456,4.90349
+FAC00544,Jigawa General Hospital 16,Jigawa,Jigawa East,General Hospital,Public,6.71547,7.82936
+FAC00545,Jigawa PHC 17,Jigawa,Jigawa Central,PHC,Public,4.468519,6.314035
+FAC00546,Jigawa PHC 18,Jigawa,Jigawa South,PHC,Public,8.66968,7.084449
+FAC00547,Jigawa General Hospital 19,Jigawa,Jigawa West,General Hospital,Public,5.018924,7.322807
+FAC00548,Jigawa PHC 20,Jigawa,Jigawa West,PHC,Public,9.718092,13.886398
+FAC00549,Jigawa General Hospital 21,Jigawa,Jigawa West,General Hospital,Public,10.751401,4.392272
+FAC00550,Jigawa PHC 22,Jigawa,Jigawa West,PHC,Public,10.327119,11.446285
+FAC00551,Jigawa PHC 23,Jigawa,Jigawa Central,PHC,Public,12.755112,5.193687
+FAC00552,Jigawa PHC 24,Jigawa,Jigawa West,PHC,Public,11.025405,6.576627
+FAC00553,Jigawa PHC 25,Jigawa,Jigawa West,PHC,Public,13.994662,4.257697
+FAC00554,Jigawa PHC 26,Jigawa,Jigawa North,PHC,Public,8.759677,4.33173
+FAC00555,Jigawa PHC 27,Jigawa,Jigawa North,PHC,Public,4.52355,12.210812
+FAC00556,Jigawa PHC 28,Jigawa,Jigawa South,PHC,Public,6.119941,10.888242
+FAC00557,Jigawa PHC 29,Jigawa,Jigawa North,PHC,Private,11.962406,12.048276
+FAC00558,Jigawa PHC 30,Jigawa,Jigawa West,PHC,Public,11.385975,6.787528
+FAC00559,Jigawa PHC 31,Jigawa,Jigawa North,PHC,Public,12.90215,6.448915
+FAC00560,Jigawa PHC 32,Jigawa,Jigawa South,PHC,Public,9.438057,4.198402
+FAC00561,Kaduna PHC 1,Kaduna,Kaduna South,PHC,Public,4.193276,4.492421
+FAC00562,Kaduna PHC 2,Kaduna,Kaduna North,PHC,Public,13.060659,6.200102
+FAC00563,Kaduna PHC 3,Kaduna,Kaduna South,PHC,Private,9.190323,11.130507
+FAC00564,Kaduna PHC 4,Kaduna,Kaduna North,PHC,Public,9.21296,14.712166
+FAC00565,Kaduna PHC 5,Kaduna,Kaduna East,PHC,Public,7.825803,7.412804
+FAC00566,Kaduna PHC 6,Kaduna,Kaduna Central,PHC,Public,7.418037,11.868319
+FAC00567,Kaduna PHC 7,Kaduna,Kaduna West,PHC,Public,4.013536,6.597606
+FAC00568,Kaduna PHC 8,Kaduna,Kaduna East,PHC,Private,4.23595,13.782727
+FAC00569,Kaduna PHC 9,Kaduna,Kaduna Central,PHC,Public,7.980053,6.634989
+FAC00570,Kaduna PHC 10,Kaduna,Kaduna South,PHC,Public,10.032918,8.680811
+FAC00571,Kaduna PHC 11,Kaduna,Kaduna West,PHC,Public,13.577898,14.312692
+FAC00572,Kaduna PHC 12,Kaduna,Kaduna South,PHC,Private,10.445912,9.735523
+FAC00573,Kaduna PHC 13,Kaduna,Kaduna South,PHC,Public,5.958331,4.689635
+FAC00574,Kaduna PHC 14,Kaduna,Kaduna Central,PHC,Public,6.762373,14.77984
+FAC00575,Kaduna PHC 15,Kaduna,Kaduna West,PHC,Private,10.428189,12.718322
+FAC00576,Kaduna General Hospital 16,Kaduna,Kaduna West,General Hospital,Public,9.38813,3.727547
+FAC00577,Kaduna PHC 17,Kaduna,Kaduna South,PHC,Public,4.078416,10.571061
+FAC00578,Kaduna PHC 18,Kaduna,Kaduna South,PHC,Public,7.019167,12.13306
+FAC00579,Kaduna PHC 19,Kaduna,Kaduna Central,PHC,Private,10.209086,14.143923
+FAC00580,Kaduna PHC 20,Kaduna,Kaduna Central,PHC,Public,8.585979,9.730494
+FAC00581,Kaduna General Hospital 21,Kaduna,Kaduna Central,General Hospital,Public,4.49979,13.123796
+FAC00582,Kaduna General Hospital 22,Kaduna,Kaduna East,General Hospital,Public,7.918583,10.909365
+FAC00583,Kaduna PHC 23,Kaduna,Kaduna West,PHC,Public,13.948193,11.540674
+FAC00584,Kaduna General Hospital 24,Kaduna,Kaduna East,General Hospital,Public,8.589635,14.032649
+FAC00585,Kaduna PHC 25,Kaduna,Kaduna South,PHC,Public,13.811778,5.281292
+FAC00586,Kaduna PHC 26,Kaduna,Kaduna South,PHC,Private,10.983112,7.742471
+FAC00587,Kaduna General Hospital 27,Kaduna,Kaduna Central,General Hospital,Private,12.542219,12.277069
+FAC00588,Kaduna PHC 28,Kaduna,Kaduna East,PHC,Public,10.666005,4.952397
+FAC00589,Kaduna PHC 29,Kaduna,Kaduna West,PHC,Public,4.121031,3.108462
+FAC00590,Kaduna PHC 30,Kaduna,Kaduna South,PHC,Private,12.047531,3.552681
+FAC00591,Kaduna General Hospital 31,Kaduna,Kaduna East,General Hospital,Public,6.538211,5.949689
+FAC00592,Kaduna PHC 32,Kaduna,Kaduna Central,PHC,Private,5.185026,6.466619
+FAC00593,Kano PHC 1,Kano,Kano East,PHC,Private,8.946752,9.152643
+FAC00594,Kano PHC 2,Kano,Kano West,PHC,Public,11.54265,14.021117
+FAC00595,Kano General Hospital 3,Kano,Kano North,General Hospital,Public,11.875491,6.012017
+FAC00596,Kano PHC 4,Kano,Kano West,PHC,Public,12.472717,13.826837
+FAC00597,Kano General Hospital 5,Kano,Kano South,General Hospital,Private,12.398162,12.021266
+FAC00598,Kano PHC 6,Kano,Kano South,PHC,Private,10.795499,5.698683
+FAC00599,Kano PHC 7,Kano,Kano East,PHC,Public,8.275018,6.916061
+FAC00600,Kano General Hospital 8,Kano,Kano South,General Hospital,Public,12.925582,8.033376
+FAC00601,Kano PHC 9,Kano,Kano South,PHC,Public,6.046801,10.093564
+FAC00602,Kano PHC 10,Kano,Kano West,PHC,Public,10.360425,7.372251
+FAC00603,Kano PHC 11,Kano,Kano North,PHC,Private,8.094121,12.730543
+FAC00604,Kano General Hospital 12,Kano,Kano South,General Hospital,Public,11.739062,7.231231
+FAC00605,Kano General Hospital 13,Kano,Kano North,General Hospital,Public,9.390946,6.389669
+FAC00606,Kano PHC 14,Kano,Kano Central,PHC,Public,11.655468,3.00014
+FAC00607,Kano PHC 15,Kano,Kano Central,PHC,Public,11.231283,5.406723
+FAC00608,Kano PHC 16,Kano,Kano West,PHC,Public,6.304167,3.017686
+FAC00609,Kano PHC 17,Kano,Kano East,PHC,Private,10.630472,11.902756
+FAC00610,Kano General Hospital 18,Kano,Kano South,General Hospital,Public,12.960408,12.816321
+FAC00611,Kano PHC 19,Kano,Kano North,PHC,Public,7.70941,13.823282
+FAC00612,Kano General Hospital 20,Kano,Kano Central,General Hospital,Private,9.42471,4.795217
+FAC00613,Kano PHC 21,Kano,Kano South,PHC,Public,11.093208,5.007856
+FAC00614,Kano PHC 22,Kano,Kano East,PHC,Public,10.28434,8.78241
+FAC00615,Kano PHC 23,Kano,Kano North,PHC,Private,5.299414,9.7211
+FAC00616,Kano PHC 24,Kano,Kano East,PHC,Public,7.692808,14.195098
+FAC00617,Kano General Hospital 25,Kano,Kano East,General Hospital,Public,12.035181,4.464366
+FAC00618,Kano PHC 26,Kano,Kano North,PHC,Private,6.740716,12.684851
+FAC00619,Kano PHC 27,Kano,Kano West,PHC,Public,13.785255,13.278447
+FAC00620,Kano PHC 28,Kano,Kano Central,PHC,Public,13.470907,8.955105
+FAC00621,Kano PHC 29,Kano,Kano West,PHC,Public,7.84355,3.302321
+FAC00622,Kano General Hospital 30,Kano,Kano South,General Hospital,Public,10.159119,13.119337
+FAC00623,Kano PHC 31,Kano,Kano Central,PHC,Public,12.171281,9.557164
+FAC00624,Kano General Hospital 32,Kano,Kano North,General Hospital,Public,7.088344,8.787172
+FAC00625,Katsina PHC 1,Katsina,Katsina East,PHC,Private,13.524671,5.720729
+FAC00626,Katsina General Hospital 2,Katsina,Katsina West,General Hospital,Public,10.250292,6.798596
+FAC00627,Katsina General Hospital 3,Katsina,Katsina East,General Hospital,Public,12.506803,14.782868
+FAC00628,Katsina PHC 4,Katsina,Katsina West,PHC,Public,5.869144,3.237548
+FAC00629,Katsina PHC 5,Katsina,Katsina West,PHC,Public,10.212924,7.0086
+FAC00630,Katsina PHC 6,Katsina,Katsina East,PHC,Public,7.558548,4.007034
+FAC00631,Katsina PHC 7,Katsina,Katsina East,PHC,Public,4.565857,7.487053
+FAC00632,Katsina General Hospital 8,Katsina,Katsina East,General Hospital,Public,11.852688,10.213232
+FAC00633,Katsina General Hospital 9,Katsina,Katsina South,General Hospital,Public,13.147311,3.137768
+FAC00634,Katsina PHC 10,Katsina,Katsina South,PHC,Private,13.706765,4.359642
+FAC00635,Katsina PHC 11,Katsina,Katsina South,PHC,Public,9.821832,5.453287
+FAC00636,Katsina PHC 12,Katsina,Katsina East,PHC,Public,6.053329,8.796476
+FAC00637,Katsina PHC 13,Katsina,Katsina South,PHC,Public,10.897788,4.727303
+FAC00638,Katsina PHC 14,Katsina,Katsina West,PHC,Public,6.972908,4.104804
+FAC00639,Katsina PHC 15,Katsina,Katsina South,PHC,Public,6.67402,3.181328
+FAC00640,Katsina General Hospital 16,Katsina,Katsina South,General Hospital,Public,8.506865,11.064672
+FAC00641,Katsina PHC 17,Katsina,Katsina East,PHC,Public,9.976683,13.393148
+FAC00642,Katsina General Hospital 18,Katsina,Katsina South,General Hospital,Public,10.122582,5.55702
+FAC00643,Katsina General Hospital 19,Katsina,Katsina West,General Hospital,Public,11.011396,11.161343
+FAC00644,Katsina PHC 20,Katsina,Katsina West,PHC,Public,13.362671,9.503881
+FAC00645,Katsina General Hospital 21,Katsina,Katsina North,General Hospital,Public,12.398016,5.262487
+FAC00646,Katsina PHC 22,Katsina,Katsina North,PHC,Private,8.980404,11.9139
+FAC00647,Katsina PHC 23,Katsina,Katsina Central,PHC,Private,13.145487,8.208252
+FAC00648,Katsina PHC 24,Katsina,Katsina North,PHC,Public,8.38385,14.955147
+FAC00649,Katsina PHC 25,Katsina,Katsina North,PHC,Public,6.420221,11.568633
+FAC00650,Katsina PHC 26,Katsina,Katsina West,PHC,Public,4.137456,5.980515
+FAC00651,Katsina PHC 27,Katsina,Katsina South,PHC,Public,4.625263,8.507286
+FAC00652,Katsina PHC 28,Katsina,Katsina East,PHC,Public,9.948032,7.466405
+FAC00653,Katsina PHC 29,Katsina,Katsina East,PHC,Private,8.93501,6.399657
+FAC00654,Katsina PHC 30,Katsina,Katsina North,PHC,Public,6.533572,14.851915
+FAC00655,Katsina PHC 31,Katsina,Katsina North,PHC,Public,13.207666,10.013387
+FAC00656,Katsina PHC 32,Katsina,Katsina West,PHC,Public,13.152572,13.317886
+FAC00657,Kebbi PHC 1,Kebbi,Kebbi South,PHC,Public,10.302472,5.980603
+FAC00658,Kebbi PHC 2,Kebbi,Kebbi West,PHC,Public,9.350255,4.732652
+FAC00659,Kebbi PHC 3,Kebbi,Kebbi East,PHC,Public,9.988454,5.413185
+FAC00660,Kebbi PHC 4,Kebbi,Kebbi East,PHC,Public,8.910957,14.125328
+FAC00661,Kebbi PHC 5,Kebbi,Kebbi South,PHC,Public,8.087773,14.088322
+FAC00662,Kebbi PHC 6,Kebbi,Kebbi North,PHC,Public,5.856467,10.970633
+FAC00663,Kebbi General Hospital 7,Kebbi,Kebbi West,General Hospital,Public,8.462012,12.670134
+FAC00664,Kebbi PHC 8,Kebbi,Kebbi East,PHC,Private,9.150057,9.426646
+FAC00665,Kebbi PHC 9,Kebbi,Kebbi West,PHC,Public,12.726358,12.937402
+FAC00666,Kebbi PHC 10,Kebbi,Kebbi Central,PHC,Public,7.267425,7.253099
+FAC00667,Kebbi PHC 11,Kebbi,Kebbi North,PHC,Private,7.18609,13.842701
+FAC00668,Kebbi PHC 12,Kebbi,Kebbi North,PHC,Public,12.588168,11.123289
+FAC00669,Kebbi General Hospital 13,Kebbi,Kebbi East,General Hospital,Private,8.145161,3.159012
+FAC00670,Kebbi PHC 14,Kebbi,Kebbi Central,PHC,Public,11.219292,7.617643
+FAC00671,Kebbi PHC 15,Kebbi,Kebbi Central,PHC,Public,11.187396,11.788813
+FAC00672,Kebbi PHC 16,Kebbi,Kebbi North,PHC,Public,7.4523,7.970411
+FAC00673,Kebbi PHC 17,Kebbi,Kebbi South,PHC,Private,7.542713,4.264146
+FAC00674,Kebbi PHC 18,Kebbi,Kebbi West,PHC,Public,7.110025,5.003173
+FAC00675,Kebbi PHC 19,Kebbi,Kebbi West,PHC,Public,9.719122,14.83496
+FAC00676,Kebbi PHC 20,Kebbi,Kebbi North,PHC,Public,9.40905,11.357158
+FAC00677,Kebbi PHC 21,Kebbi,Kebbi South,PHC,Public,7.275522,9.560223
+FAC00678,Kebbi PHC 22,Kebbi,Kebbi Central,PHC,Public,10.966273,8.948445
+FAC00679,Kebbi General Hospital 23,Kebbi,Kebbi South,General Hospital,Public,9.122848,4.371429
+FAC00680,Kebbi PHC 24,Kebbi,Kebbi South,PHC,Public,9.078051,8.03126
+FAC00681,Kebbi PHC 25,Kebbi,Kebbi North,PHC,Public,10.732464,7.897429
+FAC00682,Kebbi General Hospital 26,Kebbi,Kebbi South,General Hospital,Public,6.532724,3.119745
+FAC00683,Kebbi PHC 27,Kebbi,Kebbi North,PHC,Public,8.650552,13.490048
+FAC00684,Kebbi PHC 28,Kebbi,Kebbi North,PHC,Public,9.315774,9.126742
+FAC00685,Kebbi General Hospital 29,Kebbi,Kebbi East,General Hospital,Public,4.133677,7.916871
+FAC00686,Kebbi PHC 30,Kebbi,Kebbi South,PHC,Public,4.669736,13.528205
+FAC00687,Kebbi PHC 31,Kebbi,Kebbi West,PHC,Public,12.479279,9.547022
+FAC00688,Kebbi General Hospital 32,Kebbi,Kebbi Central,General Hospital,Public,12.038145,8.201667
+FAC00689,Kogi General Hospital 1,Kogi,Kogi Central,General Hospital,Public,8.463869,3.840042
+FAC00690,Kogi PHC 2,Kogi,Kogi West,PHC,Public,8.642385,11.672853
+FAC00691,Kogi PHC 3,Kogi,Kogi East,PHC,Public,7.792265,12.976412
+FAC00692,Kogi General Hospital 4,Kogi,Kogi West,General Hospital,Public,4.953716,4.244143
+FAC00693,Kogi PHC 5,Kogi,Kogi North,PHC,Public,9.837136,12.38352
+FAC00694,Kogi PHC 6,Kogi,Kogi South,PHC,Public,11.585019,3.175539
+FAC00695,Kogi PHC 7,Kogi,Kogi East,PHC,Public,5.69881,5.339702
+FAC00696,Kogi General Hospital 8,Kogi,Kogi North,General Hospital,Public,6.58231,10.264941
+FAC00697,Kogi PHC 9,Kogi,Kogi South,PHC,Public,9.788068,10.588696
+FAC00698,Kogi PHC 10,Kogi,Kogi Central,PHC,Public,11.127777,7.634544
+FAC00699,Kogi PHC 11,Kogi,Kogi Central,PHC,Public,6.149126,8.09821
+FAC00700,Kogi General Hospital 12,Kogi,Kogi North,General Hospital,Public,9.846681,4.603807
+FAC00701,Kogi PHC 13,Kogi,Kogi North,PHC,Public,6.71946,11.308307
+FAC00702,Kogi PHC 14,Kogi,Kogi Central,PHC,Private,7.245118,6.234142
+FAC00703,Kogi PHC 15,Kogi,Kogi Central,PHC,Public,10.547091,12.885209
+FAC00704,Kogi PHC 16,Kogi,Kogi West,PHC,Public,8.615229,14.799668
+FAC00705,Kogi PHC 17,Kogi,Kogi West,PHC,Public,7.683472,8.188155
+FAC00706,Kogi PHC 18,Kogi,Kogi Central,PHC,Public,12.791858,5.92076
+FAC00707,Kogi PHC 19,Kogi,Kogi South,PHC,Public,11.837724,8.147819
+FAC00708,Kogi PHC 20,Kogi,Kogi Central,PHC,Public,8.364196,11.001263
+FAC00709,Kogi PHC 21,Kogi,Kogi North,PHC,Public,9.767024,3.807071
+FAC00710,Kogi PHC 22,Kogi,Kogi East,PHC,Private,13.335711,12.616176
+FAC00711,Kogi PHC 23,Kogi,Kogi East,PHC,Public,6.414965,3.48421
+FAC00712,Kogi PHC 24,Kogi,Kogi West,PHC,Public,12.917109,13.190148
+FAC00713,Kogi PHC 25,Kogi,Kogi West,PHC,Public,10.54342,5.784218
+FAC00714,Kogi PHC 26,Kogi,Kogi South,PHC,Public,11.061585,6.707472
+FAC00715,Kogi PHC 27,Kogi,Kogi South,PHC,Public,9.633954,10.495369
+FAC00716,Kogi General Hospital 28,Kogi,Kogi North,General Hospital,Public,4.693283,10.659867
+FAC00717,Kogi PHC 29,Kogi,Kogi Central,PHC,Public,7.892305,5.746506
+FAC00718,Kogi PHC 30,Kogi,Kogi South,PHC,Private,7.419053,9.33213
+FAC00719,Kogi PHC 31,Kogi,Kogi West,PHC,Private,8.941477,13.332544
+FAC00720,Kogi PHC 32,Kogi,Kogi East,PHC,Private,13.492007,12.993983
+FAC00721,Kwara PHC 1,Kwara,Kwara East,PHC,Private,5.67357,9.004313
+FAC00722,Kwara PHC 2,Kwara,Kwara North,PHC,Public,4.698007,9.656253
+FAC00723,Kwara PHC 3,Kwara,Kwara North,PHC,Public,5.79356,11.46167
+FAC00724,Kwara PHC 4,Kwara,Kwara Central,PHC,Public,13.487444,3.727259
+FAC00725,Kwara PHC 5,Kwara,Kwara East,PHC,Public,10.996396,13.05786
+FAC00726,Kwara General Hospital 6,Kwara,Kwara East,General Hospital,Private,10.390322,14.442421
+FAC00727,Kwara General Hospital 7,Kwara,Kwara North,General Hospital,Public,6.770125,14.05569
+FAC00728,Kwara PHC 8,Kwara,Kwara East,PHC,Public,4.519894,3.380925
+FAC00729,Kwara PHC 9,Kwara,Kwara West,PHC,Public,12.80973,13.594978
+FAC00730,Kwara PHC 10,Kwara,Kwara Central,PHC,Public,13.76187,11.201445
+FAC00731,Kwara PHC 11,Kwara,Kwara North,PHC,Public,13.972379,3.360312
+FAC00732,Kwara General Hospital 12,Kwara,Kwara North,General Hospital,Public,8.650095,13.168655
+FAC00733,Kwara PHC 13,Kwara,Kwara Central,PHC,Public,13.753431,12.803687
+FAC00734,Kwara General Hospital 14,Kwara,Kwara East,General Hospital,Private,9.518771,12.472913
+FAC00735,Kwara PHC 15,Kwara,Kwara East,PHC,Public,8.691072,6.222746
+FAC00736,Kwara PHC 16,Kwara,Kwara Central,PHC,Public,9.298813,14.823646
+FAC00737,Kwara PHC 17,Kwara,Kwara West,PHC,Public,6.783685,12.579518
+FAC00738,Kwara PHC 18,Kwara,Kwara West,PHC,Public,12.266183,7.387148
+FAC00739,Kwara PHC 19,Kwara,Kwara West,PHC,Public,6.105069,12.708284
+FAC00740,Kwara PHC 20,Kwara,Kwara South,PHC,Public,12.293142,11.480106
+FAC00741,Kwara PHC 21,Kwara,Kwara South,PHC,Public,9.055088,4.728945
+FAC00742,Kwara PHC 22,Kwara,Kwara North,PHC,Public,8.417465,14.810814
+FAC00743,Kwara PHC 23,Kwara,Kwara Central,PHC,Public,8.186073,8.501177
+FAC00744,Kwara PHC 24,Kwara,Kwara East,PHC,Public,13.917729,10.970421
+FAC00745,Kwara PHC 25,Kwara,Kwara Central,PHC,Public,13.894511,13.674232
+FAC00746,Kwara PHC 26,Kwara,Kwara South,PHC,Public,8.708674,10.87266
+FAC00747,Kwara PHC 27,Kwara,Kwara West,PHC,Public,7.614038,13.317536
+FAC00748,Kwara PHC 28,Kwara,Kwara West,PHC,Public,8.161454,9.166209
+FAC00749,Kwara General Hospital 29,Kwara,Kwara North,General Hospital,Private,5.754916,9.812728
+FAC00750,Kwara PHC 30,Kwara,Kwara West,PHC,Public,13.702353,14.187873
+FAC00751,Kwara PHC 31,Kwara,Kwara West,PHC,Public,5.653023,13.251129
+FAC00752,Kwara PHC 32,Kwara,Kwara Central,PHC,Public,9.76614,9.705191
+FAC00753,Lagos PHC 1,Lagos,Lagos East,PHC,Public,13.38895,13.727822
+FAC00754,Lagos PHC 2,Lagos,Lagos Central,PHC,Public,11.959264,5.101478
+FAC00755,Lagos PHC 3,Lagos,Lagos Central,PHC,Public,12.740718,5.996027
+FAC00756,Lagos PHC 4,Lagos,Lagos South,PHC,Public,11.925948,10.527947
+FAC00757,Lagos PHC 5,Lagos,Lagos North,PHC,Public,9.543375,5.394064
+FAC00758,Lagos PHC 6,Lagos,Lagos East,PHC,Public,4.400591,6.497531
+FAC00759,Lagos PHC 7,Lagos,Lagos East,PHC,Public,9.899479,3.077223
+FAC00760,Lagos PHC 8,Lagos,Lagos South,PHC,Public,11.604243,9.155066
+FAC00761,Lagos PHC 9,Lagos,Lagos South,PHC,Private,7.978657,12.930637
+FAC00762,Lagos PHC 10,Lagos,Lagos Central,PHC,Public,4.454525,10.759205
+FAC00763,Lagos PHC 11,Lagos,Lagos West,PHC,Public,9.09854,9.015308
+FAC00764,Lagos PHC 12,Lagos,Lagos North,PHC,Public,12.52982,14.140602
+FAC00765,Lagos General Hospital 13,Lagos,Lagos East,General Hospital,Public,8.490388,5.849743
+FAC00766,Lagos PHC 14,Lagos,Lagos North,PHC,Public,10.083195,6.372597
+FAC00767,Lagos PHC 15,Lagos,Lagos South,PHC,Public,7.920936,12.009236
+FAC00768,Lagos PHC 16,Lagos,Lagos South,PHC,Public,10.773931,9.789379
+FAC00769,Lagos General Hospital 17,Lagos,Lagos South,General Hospital,Public,7.180496,11.993112
+FAC00770,Lagos PHC 18,Lagos,Lagos North,PHC,Public,6.344256,7.141005
+FAC00771,Lagos PHC 19,Lagos,Lagos East,PHC,Private,10.370947,10.167509
+FAC00772,Lagos PHC 20,Lagos,Lagos West,PHC,Public,12.481092,14.365938
+FAC00773,Lagos General Hospital 21,Lagos,Lagos South,General Hospital,Public,13.12931,7.077243
+FAC00774,Lagos PHC 22,Lagos,Lagos North,PHC,Public,11.062462,10.472274
+FAC00775,Lagos General Hospital 23,Lagos,Lagos East,General Hospital,Public,5.422552,6.757958
+FAC00776,Lagos General Hospital 24,Lagos,Lagos North,General Hospital,Public,13.354845,5.228797
+FAC00777,Lagos PHC 25,Lagos,Lagos West,PHC,Private,5.648848,5.879872
+FAC00778,Lagos PHC 26,Lagos,Lagos Central,PHC,Public,8.467145,9.018216
+FAC00779,Lagos PHC 27,Lagos,Lagos South,PHC,Public,13.047663,10.770198
+FAC00780,Lagos PHC 28,Lagos,Lagos Central,PHC,Public,5.147969,14.298395
+FAC00781,Lagos PHC 29,Lagos,Lagos North,PHC,Public,10.635236,7.93437
+FAC00782,Lagos PHC 30,Lagos,Lagos West,PHC,Private,11.574644,6.540868
+FAC00783,Lagos PHC 31,Lagos,Lagos North,PHC,Public,11.297119,14.28265
+FAC00784,Lagos PHC 32,Lagos,Lagos West,PHC,Private,5.198911,11.81911
+FAC00785,Nasarawa PHC 1,Nasarawa,Nasarawa South,PHC,Public,6.999421,10.152983
+FAC00786,Nasarawa PHC 2,Nasarawa,Nasarawa North,PHC,Public,7.901202,7.26158
+FAC00787,Nasarawa PHC 3,Nasarawa,Nasarawa West,PHC,Public,9.814171,4.270239
+FAC00788,Nasarawa General Hospital 4,Nasarawa,Nasarawa East,General Hospital,Public,8.108571,9.726958
+FAC00789,Nasarawa General Hospital 5,Nasarawa,Nasarawa East,General Hospital,Public,12.009807,4.253454
+FAC00790,Nasarawa PHC 6,Nasarawa,Nasarawa East,PHC,Public,13.805682,5.576351
+FAC00791,Nasarawa PHC 7,Nasarawa,Nasarawa North,PHC,Public,10.997052,10.403328
+FAC00792,Nasarawa General Hospital 8,Nasarawa,Nasarawa South,General Hospital,Public,11.894923,11.97793
+FAC00793,Nasarawa PHC 9,Nasarawa,Nasarawa West,PHC,Public,13.835672,6.11605
+FAC00794,Nasarawa General Hospital 10,Nasarawa,Nasarawa South,General Hospital,Public,4.503495,3.633183
+FAC00795,Nasarawa PHC 11,Nasarawa,Nasarawa Central,PHC,Public,10.139703,6.034297
+FAC00796,Nasarawa PHC 12,Nasarawa,Nasarawa Central,PHC,Public,11.451795,3.917278
+FAC00797,Nasarawa General Hospital 13,Nasarawa,Nasarawa North,General Hospital,Public,7.281795,5.508712
+FAC00798,Nasarawa PHC 14,Nasarawa,Nasarawa Central,PHC,Public,12.409087,5.654864
+FAC00799,Nasarawa PHC 15,Nasarawa,Nasarawa Central,PHC,Public,7.846111,8.509488
+FAC00800,Nasarawa PHC 16,Nasarawa,Nasarawa Central,PHC,Private,13.337494,11.206397
+FAC00801,Nasarawa PHC 17,Nasarawa,Nasarawa Central,PHC,Public,7.118021,5.997266
+FAC00802,Nasarawa PHC 18,Nasarawa,Nasarawa West,PHC,Public,9.621888,11.577039
+FAC00803,Nasarawa PHC 19,Nasarawa,Nasarawa East,PHC,Public,11.735721,3.528485
+FAC00804,Nasarawa PHC 20,Nasarawa,Nasarawa West,PHC,Public,9.506634,7.838493
+FAC00805,Nasarawa General Hospital 21,Nasarawa,Nasarawa Central,General Hospital,Public,8.381767,13.791124
+FAC00806,Nasarawa General Hospital 22,Nasarawa,Nasarawa West,General Hospital,Public,8.131725,11.109875
+FAC00807,Nasarawa PHC 23,Nasarawa,Nasarawa West,PHC,Public,9.56328,3.349862
+FAC00808,Nasarawa General Hospital 24,Nasarawa,Nasarawa South,General Hospital,Public,5.682037,13.551963
+FAC00809,Nasarawa PHC 25,Nasarawa,Nasarawa East,PHC,Public,6.62343,6.756602
+FAC00810,Nasarawa General Hospital 26,Nasarawa,Nasarawa West,General Hospital,Public,13.164205,10.624972
+FAC00811,Nasarawa PHC 27,Nasarawa,Nasarawa South,PHC,Public,7.148258,3.516629
+FAC00812,Nasarawa PHC 28,Nasarawa,Nasarawa South,PHC,Public,12.244715,4.757235
+FAC00813,Nasarawa General Hospital 29,Nasarawa,Nasarawa South,General Hospital,Public,6.371445,4.29137
+FAC00814,Nasarawa PHC 30,Nasarawa,Nasarawa South,PHC,Public,12.442123,8.808247
+FAC00815,Nasarawa PHC 31,Nasarawa,Nasarawa West,PHC,Public,6.152045,13.612262
+FAC00816,Nasarawa PHC 32,Nasarawa,Nasarawa East,PHC,Public,13.783548,14.588967
+FAC00817,Niger PHC 1,Niger,Niger Central,PHC,Public,12.571917,12.845122
+FAC00818,Niger PHC 2,Niger,Niger East,PHC,Public,8.544032,12.362271
+FAC00819,Niger General Hospital 3,Niger,Niger North,General Hospital,Public,8.309839,6.65391
+FAC00820,Niger PHC 4,Niger,Niger Central,PHC,Public,6.226761,6.686597
+FAC00821,Niger PHC 5,Niger,Niger West,PHC,Public,5.305013,9.78504
+FAC00822,Niger PHC 6,Niger,Niger South,PHC,Public,4.841277,7.717247
+FAC00823,Niger PHC 7,Niger,Niger East,PHC,Public,10.024494,4.956229
+FAC00824,Niger PHC 8,Niger,Niger Central,PHC,Public,13.482515,6.655228
+FAC00825,Niger PHC 9,Niger,Niger South,PHC,Public,13.264638,8.035529
+FAC00826,Niger PHC 10,Niger,Niger North,PHC,Public,4.096869,13.295461
+FAC00827,Niger PHC 11,Niger,Niger North,PHC,Private,11.87372,6.677194
+FAC00828,Niger PHC 12,Niger,Niger Central,PHC,Public,9.66215,3.07509
+FAC00829,Niger PHC 13,Niger,Niger West,PHC,Public,8.261212,12.988362
+FAC00830,Niger General Hospital 14,Niger,Niger West,General Hospital,Public,12.173053,14.164781
+FAC00831,Niger PHC 15,Niger,Niger Central,PHC,Public,10.26457,6.447921
+FAC00832,Niger PHC 16,Niger,Niger Central,PHC,Public,12.706339,12.109043
+FAC00833,Niger PHC 17,Niger,Niger West,PHC,Public,5.613674,9.863951
+FAC00834,Niger General Hospital 18,Niger,Niger West,General Hospital,Public,9.474148,11.806865
+FAC00835,Niger PHC 19,Niger,Niger South,PHC,Public,4.566804,3.416072
+FAC00836,Niger PHC 20,Niger,Niger Central,PHC,Public,6.465199,14.712392
+FAC00837,Niger PHC 21,Niger,Niger West,PHC,Public,5.221115,4.333646
+FAC00838,Niger PHC 22,Niger,Niger North,PHC,Private,5.411076,9.546985
+FAC00839,Niger PHC 23,Niger,Niger East,PHC,Public,7.604745,11.05525
+FAC00840,Niger PHC 24,Niger,Niger South,PHC,Public,8.445283,9.055428
+FAC00841,Niger PHC 25,Niger,Niger East,PHC,Public,9.778071,13.393219
+FAC00842,Niger PHC 26,Niger,Niger South,PHC,Public,8.343615,8.357303
+FAC00843,Niger PHC 27,Niger,Niger Central,PHC,Public,8.296229,6.347257
+FAC00844,Niger PHC 28,Niger,Niger South,PHC,Public,9.236005,6.043009
+FAC00845,Niger PHC 29,Niger,Niger North,PHC,Public,10.520931,12.371032
+FAC00846,Niger PHC 30,Niger,Niger West,PHC,Public,5.028426,4.511462
+FAC00847,Niger General Hospital 31,Niger,Niger Central,General Hospital,Public,5.350801,4.821305
+FAC00848,Niger General Hospital 32,Niger,Niger North,General Hospital,Private,10.825325,9.90431
+FAC00849,Ogun PHC 1,Ogun,Ogun North,PHC,Public,4.183861,8.5688
+FAC00850,Ogun General Hospital 2,Ogun,Ogun North,General Hospital,Public,10.522354,6.012961
+FAC00851,Ogun PHC 3,Ogun,Ogun North,PHC,Public,12.494464,3.539962
+FAC00852,Ogun PHC 4,Ogun,Ogun South,PHC,Public,9.941419,7.936495
+FAC00853,Ogun PHC 5,Ogun,Ogun South,PHC,Public,4.815987,6.103099
+FAC00854,Ogun PHC 6,Ogun,Ogun North,PHC,Public,10.728471,11.691054
+FAC00855,Ogun PHC 7,Ogun,Ogun North,PHC,Public,13.653027,3.605001
+FAC00856,Ogun General Hospital 8,Ogun,Ogun Central,General Hospital,Public,4.246842,7.353043
+FAC00857,Ogun PHC 9,Ogun,Ogun South,PHC,Public,13.172681,7.879086
+FAC00858,Ogun PHC 10,Ogun,Ogun West,PHC,Public,11.268388,12.417236
+FAC00859,Ogun General Hospital 11,Ogun,Ogun North,General Hospital,Public,12.375308,10.373829
+FAC00860,Ogun PHC 12,Ogun,Ogun Central,PHC,Public,6.719546,5.614697
+FAC00861,Ogun PHC 13,Ogun,Ogun West,PHC,Public,7.235304,10.980672
+FAC00862,Ogun PHC 14,Ogun,Ogun West,PHC,Public,13.242543,8.528038
+FAC00863,Ogun PHC 15,Ogun,Ogun East,PHC,Public,8.020272,11.74727
+FAC00864,Ogun PHC 16,Ogun,Ogun North,PHC,Public,4.13634,6.872719
+FAC00865,Ogun PHC 17,Ogun,Ogun Central,PHC,Public,13.576316,9.788939
+FAC00866,Ogun PHC 18,Ogun,Ogun North,PHC,Public,7.840426,10.995214
+FAC00867,Ogun General Hospital 19,Ogun,Ogun North,General Hospital,Public,7.149184,4.159738
+FAC00868,Ogun PHC 20,Ogun,Ogun East,PHC,Private,9.318718,13.483422
+FAC00869,Ogun General Hospital 21,Ogun,Ogun North,General Hospital,Public,7.200273,8.717535
+FAC00870,Ogun PHC 22,Ogun,Ogun West,PHC,Public,10.821917,6.782873
+FAC00871,Ogun PHC 23,Ogun,Ogun East,PHC,Public,10.666171,4.434744
+FAC00872,Ogun PHC 24,Ogun,Ogun West,PHC,Public,8.259377,14.93621
+FAC00873,Ogun PHC 25,Ogun,Ogun Central,PHC,Public,4.256896,6.414497
+FAC00874,Ogun PHC 26,Ogun,Ogun East,PHC,Public,5.962457,4.506597
+FAC00875,Ogun General Hospital 27,Ogun,Ogun South,General Hospital,Public,6.980757,6.334142
+FAC00876,Ogun PHC 28,Ogun,Ogun East,PHC,Public,9.855877,9.532139
+FAC00877,Ogun PHC 29,Ogun,Ogun East,PHC,Public,13.325446,9.278557
+FAC00878,Ogun PHC 30,Ogun,Ogun West,PHC,Public,7.077709,10.363655
+FAC00879,Ogun General Hospital 31,Ogun,Ogun East,General Hospital,Public,5.356883,13.723623
+FAC00880,Ogun PHC 32,Ogun,Ogun West,PHC,Private,5.899361,11.420859
+FAC00881,Ondo PHC 1,Ondo,Ondo Central,PHC,Public,9.29714,11.788661
+FAC00882,Ondo General Hospital 2,Ondo,Ondo Central,General Hospital,Private,11.021075,6.976227
+FAC00883,Ondo PHC 3,Ondo,Ondo North,PHC,Public,10.76105,6.686868
+FAC00884,Ondo PHC 4,Ondo,Ondo Central,PHC,Public,5.204473,10.014517
+FAC00885,Ondo General Hospital 5,Ondo,Ondo Central,General Hospital,Public,7.393053,9.07118
+FAC00886,Ondo PHC 6,Ondo,Ondo North,PHC,Public,5.063373,4.36968
+FAC00887,Ondo General Hospital 7,Ondo,Ondo North,General Hospital,Private,8.148257,7.647293
+FAC00888,Ondo PHC 8,Ondo,Ondo West,PHC,Public,7.96948,8.464598
+FAC00889,Ondo PHC 9,Ondo,Ondo North,PHC,Public,13.545659,4.817188
+FAC00890,Ondo PHC 10,Ondo,Ondo Central,PHC,Public,5.112087,13.418032
+FAC00891,Ondo PHC 11,Ondo,Ondo West,PHC,Public,5.626608,11.812388
+FAC00892,Ondo PHC 12,Ondo,Ondo North,PHC,Public,4.419641,7.363744
+FAC00893,Ondo PHC 13,Ondo,Ondo East,PHC,Public,6.954679,9.359644
+FAC00894,Ondo PHC 14,Ondo,Ondo North,PHC,Public,7.963126,6.55591
+FAC00895,Ondo PHC 15,Ondo,Ondo East,PHC,Public,7.715465,10.3728
+FAC00896,Ondo PHC 16,Ondo,Ondo North,PHC,Public,12.284387,3.962241
+FAC00897,Ondo PHC 17,Ondo,Ondo West,PHC,Public,11.834696,6.324831
+FAC00898,Ondo General Hospital 18,Ondo,Ondo South,General Hospital,Public,13.877495,6.908218
+FAC00899,Ondo PHC 19,Ondo,Ondo East,PHC,Public,9.162833,9.967743
+FAC00900,Ondo General Hospital 20,Ondo,Ondo North,General Hospital,Public,5.491408,12.431103
+FAC00901,Ondo PHC 21,Ondo,Ondo Central,PHC,Public,4.129072,5.720288
+FAC00902,Ondo PHC 22,Ondo,Ondo South,PHC,Public,10.439566,7.571422
+FAC00903,Ondo PHC 23,Ondo,Ondo East,PHC,Public,8.593314,12.025544
+FAC00904,Ondo General Hospital 24,Ondo,Ondo South,General Hospital,Public,8.411506,5.392939
+FAC00905,Ondo PHC 25,Ondo,Ondo South,PHC,Public,12.259323,10.577506
+FAC00906,Ondo PHC 26,Ondo,Ondo East,PHC,Public,13.579459,9.493366
+FAC00907,Ondo PHC 27,Ondo,Ondo North,PHC,Public,9.716076,5.218061
+FAC00908,Ondo PHC 28,Ondo,Ondo South,PHC,Public,6.833641,13.046847
+FAC00909,Ondo PHC 29,Ondo,Ondo Central,PHC,Public,4.12341,4.715531
+FAC00910,Ondo PHC 30,Ondo,Ondo East,PHC,Public,4.511502,7.773521
+FAC00911,Ondo PHC 31,Ondo,Ondo South,PHC,Public,5.453267,9.068361
+FAC00912,Ondo PHC 32,Ondo,Ondo Central,PHC,Public,13.94582,5.422102
+FAC00913,Osun PHC 1,Osun,Osun South,PHC,Public,5.852769,9.495241
+FAC00914,Osun PHC 2,Osun,Osun East,PHC,Public,9.892146,8.451341
+FAC00915,Osun PHC 3,Osun,Osun North,PHC,Private,5.269444,4.479405
+FAC00916,Osun PHC 4,Osun,Osun North,PHC,Public,4.591058,11.288716
+FAC00917,Osun PHC 5,Osun,Osun Central,PHC,Public,4.911406,6.430806
+FAC00918,Osun PHC 6,Osun,Osun West,PHC,Public,10.418195,7.929466
+FAC00919,Osun PHC 7,Osun,Osun West,PHC,Public,9.796191,3.266622
+FAC00920,Osun General Hospital 8,Osun,Osun South,General Hospital,Public,9.993597,11.743875
+FAC00921,Osun PHC 9,Osun,Osun Central,PHC,Public,5.695041,3.611699
+FAC00922,Osun PHC 10,Osun,Osun South,PHC,Public,9.469289,8.701078
+FAC00923,Osun General Hospital 11,Osun,Osun South,General Hospital,Public,10.277454,10.769495
+FAC00924,Osun General Hospital 12,Osun,Osun South,General Hospital,Public,12.743073,12.967473
+FAC00925,Osun PHC 13,Osun,Osun East,PHC,Public,11.396829,10.347309
+FAC00926,Osun PHC 14,Osun,Osun West,PHC,Public,11.308703,8.040132
+FAC00927,Osun PHC 15,Osun,Osun East,PHC,Public,4.679733,5.174707
+FAC00928,Osun General Hospital 16,Osun,Osun East,General Hospital,Private,8.596446,11.109136
+FAC00929,Osun PHC 17,Osun,Osun West,PHC,Public,10.75456,7.752012
+FAC00930,Osun PHC 18,Osun,Osun Central,PHC,Public,8.340522,4.530842
+FAC00931,Osun PHC 19,Osun,Osun East,PHC,Public,10.69219,8.80563
+FAC00932,Osun PHC 20,Osun,Osun East,PHC,Public,7.498544,5.925623
+FAC00933,Osun PHC 21,Osun,Osun East,PHC,Public,9.702869,5.521286
+FAC00934,Osun PHC 22,Osun,Osun South,PHC,Public,8.730275,3.519783
+FAC00935,Osun PHC 23,Osun,Osun Central,PHC,Public,9.673909,12.554923
+FAC00936,Osun PHC 24,Osun,Osun Central,PHC,Public,8.405392,6.807666
+FAC00937,Osun General Hospital 25,Osun,Osun West,General Hospital,Public,9.137079,6.458214
+FAC00938,Osun PHC 26,Osun,Osun North,PHC,Public,6.425783,4.095706
+FAC00939,Osun PHC 27,Osun,Osun East,PHC,Public,5.744093,8.659794
+FAC00940,Osun PHC 28,Osun,Osun North,PHC,Public,7.616471,4.504504
+FAC00941,Osun PHC 29,Osun,Osun North,PHC,Public,4.225645,13.339979
+FAC00942,Osun PHC 30,Osun,Osun South,PHC,Private,10.269684,12.700739
+FAC00943,Osun PHC 31,Osun,Osun North,PHC,Public,9.72123,5.169422
+FAC00944,Osun PHC 32,Osun,Osun South,PHC,Public,7.064154,9.661605
+FAC00945,Oyo PHC 1,Oyo,Oyo North,PHC,Public,4.815749,4.053459
+FAC00946,Oyo PHC 2,Oyo,Oyo West,PHC,Public,9.789776,3.175308
+FAC00947,Oyo PHC 3,Oyo,Oyo West,PHC,Public,10.493788,11.026518
+FAC00948,Oyo PHC 4,Oyo,Oyo East,PHC,Private,9.57405,11.484184
+FAC00949,Oyo PHC 5,Oyo,Oyo South,PHC,Public,12.16079,3.227345
+FAC00950,Oyo PHC 6,Oyo,Oyo North,PHC,Public,12.797524,3.590651
+FAC00951,Oyo PHC 7,Oyo,Oyo Central,PHC,Private,4.009294,13.838684
+FAC00952,Oyo PHC 8,Oyo,Oyo Central,PHC,Public,10.748932,5.868797
+FAC00953,Oyo PHC 9,Oyo,Oyo South,PHC,Public,10.804795,14.180376
+FAC00954,Oyo PHC 10,Oyo,Oyo Central,PHC,Public,13.345439,6.640627
+FAC00955,Oyo PHC 11,Oyo,Oyo North,PHC,Public,5.518862,6.942698
+FAC00956,Oyo PHC 12,Oyo,Oyo North,PHC,Public,11.293098,9.900727
+FAC00957,Oyo PHC 13,Oyo,Oyo South,PHC,Public,5.472271,5.478972
+FAC00958,Oyo PHC 14,Oyo,Oyo East,PHC,Public,4.068147,9.280886
+FAC00959,Oyo General Hospital 15,Oyo,Oyo North,General Hospital,Public,7.702322,12.015347
+FAC00960,Oyo General Hospital 16,Oyo,Oyo North,General Hospital,Public,10.577161,10.698823
+FAC00961,Oyo PHC 17,Oyo,Oyo East,PHC,Public,6.485398,6.803311
+FAC00962,Oyo General Hospital 18,Oyo,Oyo Central,General Hospital,Private,12.586981,13.286771
+FAC00963,Oyo PHC 19,Oyo,Oyo South,PHC,Public,13.450241,11.190486
+FAC00964,Oyo PHC 20,Oyo,Oyo East,PHC,Public,9.105704,4.439435
+FAC00965,Oyo PHC 21,Oyo,Oyo Central,PHC,Public,5.373,14.428641
+FAC00966,Oyo PHC 22,Oyo,Oyo East,PHC,Public,12.119462,14.348996
+FAC00967,Oyo PHC 23,Oyo,Oyo North,PHC,Private,13.865631,10.17408
+FAC00968,Oyo PHC 24,Oyo,Oyo East,PHC,Public,12.730431,5.026302
+FAC00969,Oyo PHC 25,Oyo,Oyo East,PHC,Public,6.177125,4.057826
+FAC00970,Oyo PHC 26,Oyo,Oyo South,PHC,Public,9.489096,5.27035
+FAC00971,Oyo PHC 27,Oyo,Oyo North,PHC,Public,8.608983,12.944508
+FAC00972,Oyo General Hospital 28,Oyo,Oyo East,General Hospital,Public,12.388539,11.052156
+FAC00973,Oyo PHC 29,Oyo,Oyo North,PHC,Public,7.042419,4.670962
+FAC00974,Oyo PHC 30,Oyo,Oyo South,PHC,Public,4.471967,14.536999
+FAC00975,Oyo PHC 31,Oyo,Oyo East,PHC,Public,10.296283,13.361815
+FAC00976,Oyo PHC 32,Oyo,Oyo Central,PHC,Private,5.392541,3.128584
+FAC00977,Plateau PHC 1,Plateau,Plateau West,PHC,Private,9.275636,5.059156
+FAC00978,Plateau PHC 2,Plateau,Plateau Central,PHC,Public,8.158613,3.757559
+FAC00979,Plateau PHC 3,Plateau,Plateau Central,PHC,Public,10.631462,10.144396
+FAC00980,Plateau PHC 4,Plateau,Plateau Central,PHC,Public,12.176234,13.740679
+FAC00981,Plateau General Hospital 5,Plateau,Plateau East,General Hospital,Public,8.580286,6.079766
+FAC00982,Plateau PHC 6,Plateau,Plateau South,PHC,Public,11.463629,6.738861
+FAC00983,Plateau General Hospital 7,Plateau,Plateau East,General Hospital,Public,4.547327,5.450905
+FAC00984,Plateau PHC 8,Plateau,Plateau North,PHC,Public,9.538234,9.155752
+FAC00985,Plateau PHC 9,Plateau,Plateau Central,PHC,Public,5.203636,3.811257
+FAC00986,Plateau PHC 10,Plateau,Plateau North,PHC,Private,11.055627,6.692434
+FAC00987,Plateau PHC 11,Plateau,Plateau East,PHC,Public,10.213306,11.624617
+FAC00988,Plateau PHC 12,Plateau,Plateau South,PHC,Public,4.538305,5.278504
+FAC00989,Plateau PHC 13,Plateau,Plateau South,PHC,Public,8.522025,11.869097
+FAC00990,Plateau PHC 14,Plateau,Plateau North,PHC,Public,12.614457,13.392428
+FAC00991,Plateau PHC 15,Plateau,Plateau South,PHC,Public,4.376977,12.696814
+FAC00992,Plateau PHC 16,Plateau,Plateau South,PHC,Public,9.38395,14.905628
+FAC00993,Plateau General Hospital 17,Plateau,Plateau Central,General Hospital,Public,9.346609,13.305137
+FAC00994,Plateau PHC 18,Plateau,Plateau East,PHC,Private,4.182751,13.849624
+FAC00995,Plateau PHC 19,Plateau,Plateau North,PHC,Private,5.370209,9.451016
+FAC00996,Plateau PHC 20,Plateau,Plateau North,PHC,Public,6.913611,8.008737
+FAC00997,Plateau PHC 21,Plateau,Plateau West,PHC,Private,12.078656,11.848919
+FAC00998,Plateau PHC 22,Plateau,Plateau South,PHC,Public,6.976503,6.576794
+FAC00999,Plateau PHC 23,Plateau,Plateau East,PHC,Public,10.349067,4.486152
+FAC01000,Plateau PHC 24,Plateau,Plateau Central,PHC,Private,4.427396,13.375828
+FAC01001,Plateau PHC 25,Plateau,Plateau North,PHC,Public,6.469612,13.315744
+FAC01002,Plateau PHC 26,Plateau,Plateau South,PHC,Private,9.117805,12.233311
+FAC01003,Plateau General Hospital 27,Plateau,Plateau North,General Hospital,Private,12.029813,14.769526
+FAC01004,Plateau PHC 28,Plateau,Plateau South,PHC,Public,7.770539,7.719848
+FAC01005,Plateau PHC 29,Plateau,Plateau East,PHC,Public,11.009354,5.331283
+FAC01006,Plateau PHC 30,Plateau,Plateau North,PHC,Public,10.455344,4.869279
+FAC01007,Plateau PHC 31,Plateau,Plateau South,PHC,Public,6.205088,5.231538
+FAC01008,Plateau General Hospital 32,Plateau,Plateau West,General Hospital,Public,13.696159,11.816503
+FAC01009,Rivers PHC 1,Rivers,Rivers East,PHC,Private,13.477797,4.694389
+FAC01010,Rivers PHC 2,Rivers,Rivers Central,PHC,Public,7.425911,10.532027
+FAC01011,Rivers PHC 3,Rivers,Rivers North,PHC,Public,9.311095,11.948612
+FAC01012,Rivers General Hospital 4,Rivers,Rivers East,General Hospital,Public,4.690369,7.017469
+FAC01013,Rivers PHC 5,Rivers,Rivers South,PHC,Public,5.485068,10.157605
+FAC01014,Rivers General Hospital 6,Rivers,Rivers North,General Hospital,Public,8.259975,14.612914
+FAC01015,Rivers PHC 7,Rivers,Rivers West,PHC,Public,10.009455,11.352958
+FAC01016,Rivers PHC 8,Rivers,Rivers North,PHC,Public,5.9316,8.655699
+FAC01017,Rivers PHC 9,Rivers,Rivers South,PHC,Public,12.83684,7.115156
+FAC01018,Rivers PHC 10,Rivers,Rivers South,PHC,Public,7.161013,3.66889
+FAC01019,Rivers PHC 11,Rivers,Rivers North,PHC,Public,4.805808,4.765959
+FAC01020,Rivers PHC 12,Rivers,Rivers Central,PHC,Public,12.489239,7.767258
+FAC01021,Rivers PHC 13,Rivers,Rivers West,PHC,Public,13.260596,4.940335
+FAC01022,Rivers General Hospital 14,Rivers,Rivers East,General Hospital,Public,6.402194,8.325256
+FAC01023,Rivers PHC 15,Rivers,Rivers North,PHC,Public,5.95458,4.994752
+FAC01024,Rivers General Hospital 16,Rivers,Rivers North,General Hospital,Public,12.902366,4.378876
+FAC01025,Rivers PHC 17,Rivers,Rivers East,PHC,Public,4.545119,6.768526
+FAC01026,Rivers PHC 18,Rivers,Rivers East,PHC,Public,4.871093,8.848613
+FAC01027,Rivers PHC 19,Rivers,Rivers North,PHC,Public,8.448524,8.868581
+FAC01028,Rivers PHC 20,Rivers,Rivers North,PHC,Private,6.99232,8.170299
+FAC01029,Rivers PHC 21,Rivers,Rivers North,PHC,Public,12.484718,7.359064
+FAC01030,Rivers PHC 22,Rivers,Rivers West,PHC,Private,12.050973,13.140476
+FAC01031,Rivers PHC 23,Rivers,Rivers South,PHC,Public,4.625069,7.649598
+FAC01032,Rivers PHC 24,Rivers,Rivers West,PHC,Public,5.864198,11.992433
+FAC01033,Rivers PHC 25,Rivers,Rivers North,PHC,Public,11.486087,8.791215
+FAC01034,Rivers PHC 26,Rivers,Rivers Central,PHC,Private,7.957777,10.357823
+FAC01035,Rivers General Hospital 27,Rivers,Rivers South,General Hospital,Public,9.250493,11.487347
+FAC01036,Rivers PHC 28,Rivers,Rivers South,PHC,Public,9.109707,8.145171
+FAC01037,Rivers PHC 29,Rivers,Rivers Central,PHC,Public,10.633107,13.069196
+FAC01038,Rivers PHC 30,Rivers,Rivers East,PHC,Public,13.387146,8.908348
+FAC01039,Rivers PHC 31,Rivers,Rivers East,PHC,Private,7.416411,10.781575
+FAC01040,Rivers PHC 32,Rivers,Rivers South,PHC,Private,7.278428,12.788945
+FAC01041,Sokoto PHC 1,Sokoto,Sokoto East,PHC,Public,7.400044,13.435796
+FAC01042,Sokoto PHC 2,Sokoto,Sokoto East,PHC,Public,10.803844,6.289444
+FAC01043,Sokoto General Hospital 3,Sokoto,Sokoto Central,General Hospital,Public,9.353478,10.62388
+FAC01044,Sokoto PHC 4,Sokoto,Sokoto Central,PHC,Public,11.480161,13.038371
+FAC01045,Sokoto PHC 5,Sokoto,Sokoto Central,PHC,Private,8.353963,14.437441
+FAC01046,Sokoto PHC 6,Sokoto,Sokoto West,PHC,Private,4.927148,9.386674
+FAC01047,Sokoto General Hospital 7,Sokoto,Sokoto East,General Hospital,Public,7.027751,9.389651
+FAC01048,Sokoto PHC 8,Sokoto,Sokoto Central,PHC,Public,11.074263,11.541335
+FAC01049,Sokoto General Hospital 9,Sokoto,Sokoto East,General Hospital,Public,13.226038,12.146545
+FAC01050,Sokoto PHC 10,Sokoto,Sokoto East,PHC,Public,8.87212,3.297179
+FAC01051,Sokoto PHC 11,Sokoto,Sokoto South,PHC,Public,7.344425,9.231752
+FAC01052,Sokoto PHC 12,Sokoto,Sokoto West,PHC,Public,4.849663,8.234952
+FAC01053,Sokoto PHC 13,Sokoto,Sokoto Central,PHC,Public,12.051169,4.642142
+FAC01054,Sokoto PHC 14,Sokoto,Sokoto North,PHC,Private,7.27884,11.845589
+FAC01055,Sokoto PHC 15,Sokoto,Sokoto West,PHC,Public,12.522124,3.491207
+FAC01056,Sokoto PHC 16,Sokoto,Sokoto East,PHC,Public,4.85403,14.669537
+FAC01057,Sokoto PHC 17,Sokoto,Sokoto North,PHC,Public,8.291495,3.89875
+FAC01058,Sokoto PHC 18,Sokoto,Sokoto South,PHC,Public,5.949583,9.058937
+FAC01059,Sokoto PHC 19,Sokoto,Sokoto South,PHC,Public,8.662533,12.503227
+FAC01060,Sokoto PHC 20,Sokoto,Sokoto Central,PHC,Public,11.190756,9.570215
+FAC01061,Sokoto General Hospital 21,Sokoto,Sokoto North,General Hospital,Public,7.932615,10.400552
+FAC01062,Sokoto General Hospital 22,Sokoto,Sokoto South,General Hospital,Public,7.324267,6.786398
+FAC01063,Sokoto PHC 23,Sokoto,Sokoto South,PHC,Public,8.042416,14.919182
+FAC01064,Sokoto General Hospital 24,Sokoto,Sokoto North,General Hospital,Public,10.007921,11.410388
+FAC01065,Sokoto PHC 25,Sokoto,Sokoto Central,PHC,Public,6.90044,5.417567
+FAC01066,Sokoto PHC 26,Sokoto,Sokoto West,PHC,Public,13.246418,3.674692
+FAC01067,Sokoto PHC 27,Sokoto,Sokoto Central,PHC,Private,5.645993,3.766557
+FAC01068,Sokoto PHC 28,Sokoto,Sokoto East,PHC,Public,5.023671,12.021249
+FAC01069,Sokoto General Hospital 29,Sokoto,Sokoto South,General Hospital,Public,7.769862,10.238557
+FAC01070,Sokoto PHC 30,Sokoto,Sokoto South,PHC,Public,12.509519,7.150306
+FAC01071,Sokoto PHC 31,Sokoto,Sokoto North,PHC,Public,8.064165,13.558053
+FAC01072,Sokoto PHC 32,Sokoto,Sokoto Central,PHC,Private,6.715505,6.794581
+FAC01073,Taraba General Hospital 1,Taraba,Taraba West,General Hospital,Public,10.763984,6.611596
+FAC01074,Taraba PHC 2,Taraba,Taraba North,PHC,Public,6.09037,11.34954
+FAC01075,Taraba General Hospital 3,Taraba,Taraba Central,General Hospital,Private,8.68557,4.7755
+FAC01076,Taraba General Hospital 4,Taraba,Taraba East,General Hospital,Public,6.035349,12.228734
+FAC01077,Taraba PHC 5,Taraba,Taraba Central,PHC,Public,7.179047,3.105327
+FAC01078,Taraba PHC 6,Taraba,Taraba North,PHC,Public,4.867066,9.460357
+FAC01079,Taraba General Hospital 7,Taraba,Taraba East,General Hospital,Public,5.336957,14.224734
+FAC01080,Taraba PHC 8,Taraba,Taraba South,PHC,Private,7.634039,14.258174
+FAC01081,Taraba PHC 9,Taraba,Taraba North,PHC,Public,11.653163,14.152842
+FAC01082,Taraba PHC 10,Taraba,Taraba Central,PHC,Public,7.991261,5.907086
+FAC01083,Taraba PHC 11,Taraba,Taraba South,PHC,Private,4.469925,7.065756
+FAC01084,Taraba PHC 12,Taraba,Taraba Central,PHC,Public,8.34531,13.434404
+FAC01085,Taraba PHC 13,Taraba,Taraba North,PHC,Private,7.262205,12.074307
+FAC01086,Taraba PHC 14,Taraba,Taraba Central,PHC,Public,6.425443,6.500321
+FAC01087,Taraba General Hospital 15,Taraba,Taraba South,General Hospital,Public,8.743087,5.016241
+FAC01088,Taraba PHC 16,Taraba,Taraba East,PHC,Public,12.655712,9.926593
+FAC01089,Taraba PHC 17,Taraba,Taraba West,PHC,Public,11.010976,7.928779
+FAC01090,Taraba PHC 18,Taraba,Taraba East,PHC,Public,9.144896,13.282024
+FAC01091,Taraba PHC 19,Taraba,Taraba North,PHC,Public,11.978047,13.372395
+FAC01092,Taraba PHC 20,Taraba,Taraba West,PHC,Public,8.754636,12.083132
+FAC01093,Taraba PHC 21,Taraba,Taraba South,PHC,Private,8.805599,3.825047
+FAC01094,Taraba PHC 22,Taraba,Taraba West,PHC,Public,6.039946,12.917575
+FAC01095,Taraba PHC 23,Taraba,Taraba West,PHC,Public,7.113819,7.820363
+FAC01096,Taraba PHC 24,Taraba,Taraba East,PHC,Public,7.049031,5.312117
+FAC01097,Taraba PHC 25,Taraba,Taraba West,PHC,Public,13.732609,5.416876
+FAC01098,Taraba PHC 26,Taraba,Taraba East,PHC,Public,13.399244,7.116321
+FAC01099,Taraba General Hospital 27,Taraba,Taraba Central,General Hospital,Public,4.524817,8.402835
+FAC01100,Taraba PHC 28,Taraba,Taraba East,PHC,Public,9.21551,4.495769
+FAC01101,Taraba General Hospital 29,Taraba,Taraba Central,General Hospital,Public,4.792132,3.564701
+FAC01102,Taraba PHC 30,Taraba,Taraba West,PHC,Public,10.058968,8.140222
+FAC01103,Taraba PHC 31,Taraba,Taraba North,PHC,Public,5.119346,10.314071
+FAC01104,Taraba PHC 32,Taraba,Taraba West,PHC,Public,8.769834,7.670503
+FAC01105,Yobe General Hospital 1,Yobe,Yobe South,General Hospital,Private,8.874063,14.34446
+FAC01106,Yobe PHC 2,Yobe,Yobe West,PHC,Private,8.528248,6.344332
+FAC01107,Yobe General Hospital 3,Yobe,Yobe South,General Hospital,Public,7.243289,14.425727
+FAC01108,Yobe General Hospital 4,Yobe,Yobe Central,General Hospital,Public,4.549663,9.942502
+FAC01109,Yobe PHC 5,Yobe,Yobe Central,PHC,Public,9.104601,6.105509
+FAC01110,Yobe PHC 6,Yobe,Yobe Central,PHC,Public,8.722264,11.554588
+FAC01111,Yobe PHC 7,Yobe,Yobe North,PHC,Public,13.095954,3.074206
+FAC01112,Yobe General Hospital 8,Yobe,Yobe South,General Hospital,Private,13.607463,9.450482
+FAC01113,Yobe PHC 9,Yobe,Yobe West,PHC,Public,11.486985,5.557705
+FAC01114,Yobe General Hospital 10,Yobe,Yobe North,General Hospital,Private,12.826155,4.163745
+FAC01115,Yobe PHC 11,Yobe,Yobe West,PHC,Public,12.450122,3.708602
+FAC01116,Yobe PHC 12,Yobe,Yobe Central,PHC,Public,9.15167,14.883422
+FAC01117,Yobe PHC 13,Yobe,Yobe East,PHC,Public,5.704625,7.61419
+FAC01118,Yobe PHC 14,Yobe,Yobe West,PHC,Public,8.84173,12.528173
+FAC01119,Yobe PHC 15,Yobe,Yobe West,PHC,Public,11.0549,5.250053
+FAC01120,Yobe PHC 16,Yobe,Yobe East,PHC,Public,4.09087,10.77957
+FAC01121,Yobe PHC 17,Yobe,Yobe East,PHC,Public,11.069563,10.852158
+FAC01122,Yobe General Hospital 18,Yobe,Yobe South,General Hospital,Public,7.720436,4.109394
+FAC01123,Yobe PHC 19,Yobe,Yobe East,PHC,Public,11.181679,4.493063
+FAC01124,Yobe PHC 20,Yobe,Yobe West,PHC,Public,10.901231,13.049395
+FAC01125,Yobe PHC 21,Yobe,Yobe South,PHC,Private,9.26094,11.25323
+FAC01126,Yobe PHC 22,Yobe,Yobe West,PHC,Public,12.217524,4.667628
+FAC01127,Yobe PHC 23,Yobe,Yobe South,PHC,Public,7.207336,5.307095
+FAC01128,Yobe PHC 24,Yobe,Yobe South,PHC,Private,11.793652,9.269962
+FAC01129,Yobe PHC 25,Yobe,Yobe North,PHC,Public,11.159847,10.287893
+FAC01130,Yobe PHC 26,Yobe,Yobe South,PHC,Public,9.961426,11.874974
+FAC01131,Yobe PHC 27,Yobe,Yobe South,PHC,Public,8.173916,6.716026
+FAC01132,Yobe General Hospital 28,Yobe,Yobe East,General Hospital,Public,4.726656,5.389121
+FAC01133,Yobe PHC 29,Yobe,Yobe South,PHC,Public,5.256435,6.476736
+FAC01134,Yobe PHC 30,Yobe,Yobe Central,PHC,Public,11.224114,3.088703
+FAC01135,Yobe PHC 31,Yobe,Yobe West,PHC,Public,12.715859,8.02015
+FAC01136,Yobe PHC 32,Yobe,Yobe East,PHC,Public,6.667945,9.07111
+FAC01137,Zamfara PHC 1,Zamfara,Zamfara Central,PHC,Private,7.596756,11.246812
+FAC01138,Zamfara PHC 2,Zamfara,Zamfara North,PHC,Public,13.929435,12.33261
+FAC01139,Zamfara PHC 3,Zamfara,Zamfara East,PHC,Public,11.662455,6.649136
+FAC01140,Zamfara General Hospital 4,Zamfara,Zamfara South,General Hospital,Public,13.839064,13.916924
+FAC01141,Zamfara General Hospital 5,Zamfara,Zamfara North,General Hospital,Public,10.623179,10.316183
+FAC01142,Zamfara General Hospital 6,Zamfara,Zamfara Central,General Hospital,Public,4.020765,6.128505
+FAC01143,Zamfara PHC 7,Zamfara,Zamfara Central,PHC,Public,9.69305,10.580669
+FAC01144,Zamfara PHC 8,Zamfara,Zamfara East,PHC,Public,8.492682,6.557339
+FAC01145,Zamfara General Hospital 9,Zamfara,Zamfara West,General Hospital,Public,7.228098,6.097292
+FAC01146,Zamfara PHC 10,Zamfara,Zamfara North,PHC,Public,8.550756,4.962646
+FAC01147,Zamfara PHC 11,Zamfara,Zamfara South,PHC,Public,12.997431,10.540883
+FAC01148,Zamfara PHC 12,Zamfara,Zamfara Central,PHC,Public,11.647762,6.186691
+FAC01149,Zamfara General Hospital 13,Zamfara,Zamfara South,General Hospital,Public,10.38963,3.977367
+FAC01150,Zamfara PHC 14,Zamfara,Zamfara South,PHC,Public,6.651133,8.184127
+FAC01151,Zamfara General Hospital 15,Zamfara,Zamfara East,General Hospital,Public,8.885425,9.290355
+FAC01152,Zamfara PHC 16,Zamfara,Zamfara Central,PHC,Public,10.49556,13.415995
+FAC01153,Zamfara General Hospital 17,Zamfara,Zamfara East,General Hospital,Public,7.157434,10.458225
+FAC01154,Zamfara PHC 18,Zamfara,Zamfara Central,PHC,Public,5.335342,7.640357
+FAC01155,Zamfara General Hospital 19,Zamfara,Zamfara South,General Hospital,Private,9.069996,9.866064
+FAC01156,Zamfara General Hospital 20,Zamfara,Zamfara South,General Hospital,Private,7.40962,14.972067
+FAC01157,Zamfara PHC 21,Zamfara,Zamfara West,PHC,Public,10.542205,14.978399
+FAC01158,Zamfara PHC 22,Zamfara,Zamfara South,PHC,Public,4.652768,12.862072
+FAC01159,Zamfara PHC 23,Zamfara,Zamfara East,PHC,Public,9.391911,6.061121
+FAC01160,Zamfara PHC 24,Zamfara,Zamfara West,PHC,Public,4.39948,7.347522
+FAC01161,Zamfara General Hospital 25,Zamfara,Zamfara South,General Hospital,Public,4.551015,8.122737
+FAC01162,Zamfara PHC 26,Zamfara,Zamfara South,PHC,Private,6.751701,7.775524
+FAC01163,Zamfara General Hospital 27,Zamfara,Zamfara North,General Hospital,Public,13.810449,10.941729
+FAC01164,Zamfara General Hospital 28,Zamfara,Zamfara South,General Hospital,Public,11.153223,6.217719
+FAC01165,Zamfara PHC 29,Zamfara,Zamfara East,PHC,Public,5.025292,3.143016
+FAC01166,Zamfara PHC 30,Zamfara,Zamfara Central,PHC,Public,8.490378,8.511644
+FAC01167,Zamfara PHC 31,Zamfara,Zamfara South,PHC,Public,6.446551,8.055611
+FAC01168,Zamfara General Hospital 32,Zamfara,Zamfara North,General Hospital,Private,9.505706,5.309918
+FAC01169,FCT Abuja PHC 1,FCT Abuja,FCT Abuja Central,PHC,Private,11.600349,3.585196
+FAC01170,FCT Abuja General Hospital 2,FCT Abuja,FCT Abuja North,General Hospital,Public,9.270502,9.990405
+FAC01171,FCT Abuja PHC 3,FCT Abuja,FCT Abuja West,PHC,Public,5.882322,5.210984
+FAC01172,FCT Abuja PHC 4,FCT Abuja,FCT Abuja Central,PHC,Public,4.174982,3.588056
+FAC01173,FCT Abuja PHC 5,FCT Abuja,FCT Abuja North,PHC,Public,9.413626,6.408701
+FAC01174,FCT Abuja General Hospital 6,FCT Abuja,FCT Abuja Central,General Hospital,Private,11.352285,10.507799
+FAC01175,FCT Abuja PHC 7,FCT Abuja,FCT Abuja Central,PHC,Public,12.931137,11.273006
+FAC01176,FCT Abuja PHC 8,FCT Abuja,FCT Abuja South,PHC,Public,10.761957,13.303201
+FAC01177,FCT Abuja General Hospital 9,FCT Abuja,FCT Abuja West,General Hospital,Public,7.43301,6.942848
+FAC01178,FCT Abuja PHC 10,FCT Abuja,FCT Abuja Central,PHC,Public,11.814621,11.439327
+FAC01179,FCT Abuja General Hospital 11,FCT Abuja,FCT Abuja Central,General Hospital,Public,8.972292,14.403684
+FAC01180,FCT Abuja PHC 12,FCT Abuja,FCT Abuja East,PHC,Public,13.579711,3.401083
+FAC01181,FCT Abuja PHC 13,FCT Abuja,FCT Abuja East,PHC,Public,6.177289,10.454718
+FAC01182,FCT Abuja PHC 14,FCT Abuja,FCT Abuja South,PHC,Public,11.589768,9.007434
+FAC01183,FCT Abuja General Hospital 15,FCT Abuja,FCT Abuja North,General Hospital,Public,6.533794,13.740919
+FAC01184,FCT Abuja PHC 16,FCT Abuja,FCT Abuja North,PHC,Public,11.548275,6.713551
+FAC01185,FCT Abuja PHC 17,FCT Abuja,FCT Abuja South,PHC,Public,4.023234,14.807171
+FAC01186,FCT Abuja General Hospital 18,FCT Abuja,FCT Abuja East,General Hospital,Public,8.578049,6.107539
+FAC01187,FCT Abuja General Hospital 19,FCT Abuja,FCT Abuja South,General Hospital,Public,13.069855,5.024993
+FAC01188,FCT Abuja General Hospital 20,FCT Abuja,FCT Abuja West,General Hospital,Public,5.902279,9.250629
+FAC01189,FCT Abuja PHC 21,FCT Abuja,FCT Abuja West,PHC,Public,5.43868,4.255925
+FAC01190,FCT Abuja PHC 22,FCT Abuja,FCT Abuja East,PHC,Public,5.303204,10.721147
+FAC01191,FCT Abuja PHC 23,FCT Abuja,FCT Abuja West,PHC,Public,4.86783,5.842194
+FAC01192,FCT Abuja PHC 24,FCT Abuja,FCT Abuja South,PHC,Public,9.372757,11.125491
+FAC01193,FCT Abuja PHC 25,FCT Abuja,FCT Abuja Central,PHC,Public,4.390064,8.466801
+FAC01194,FCT Abuja General Hospital 26,FCT Abuja,FCT Abuja North,General Hospital,Public,8.247833,7.100986
+FAC01195,FCT Abuja PHC 27,FCT Abuja,FCT Abuja East,PHC,Public,10.856517,5.715328
+FAC01196,FCT Abuja PHC 28,FCT Abuja,FCT Abuja South,PHC,Private,5.070291,12.368392
+FAC01197,FCT Abuja General Hospital 29,FCT Abuja,FCT Abuja West,General Hospital,Public,8.892389,5.612984
+FAC01198,FCT Abuja PHC 30,FCT Abuja,FCT Abuja South,PHC,Public,13.361766,14.28901
+FAC01199,FCT Abuja PHC 31,FCT Abuja,FCT Abuja North,PHC,Private,10.241134,8.688915
+FAC01200,FCT Abuja General Hospital 32,FCT Abuja,FCT Abuja Central,General Hospital,Public,10.331787,11.652656
